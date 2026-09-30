@@ -1,5 +1,1740 @@
 #EXTM3U
 # ==========================================
+# 📺 Os Outros (2023) - 3 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/qXeqUSGQi7Ld91t1xpJGy12laY7.jpg", [SERIE] Os Outros (2023)
+#SINOPSE: Dois casais vizinhos entram em choque após a briga de seus filhos, com consequências absurdas.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/196421/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/196421/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/196421/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/196421/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/196421/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/196421/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/196421/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/196421/1/8
+#EPISODIO: S01E09 - Episódio 9|http://redeflixapi.store/serie/196421/1/9
+#EPISODIO: S01E10 - Episódio 10|http://redeflixapi.store/serie/196421/1/10
+#EPISODIO: S01E11 - Episódio 11|http://redeflixapi.store/serie/196421/1/11
+#EPISODIO: S01E12 - Episódio 12|http://redeflixapi.store/serie/196421/1/12
+#EPISODIO: S02E01 - Episódio 1|http://redeflixapi.store/serie/196421/2/1
+#EPISODIO: S02E02 - Episódio 2|http://redeflixapi.store/serie/196421/2/2
+#EPISODIO: S02E03 - Episódio 3|http://redeflixapi.store/serie/196421/2/3
+#EPISODIO: S02E04 - Episódio 4|http://redeflixapi.store/serie/196421/2/4
+#EPISODIO: S02E05 - Episódio 5|http://redeflixapi.store/serie/196421/2/5
+#EPISODIO: S02E06 - Episódio 6|http://redeflixapi.store/serie/196421/2/6
+#EPISODIO: S02E07 - Episódio 7|http://redeflixapi.store/serie/196421/2/7
+#EPISODIO: S02E08 - Episódio 8|http://redeflixapi.store/serie/196421/2/8
+#EPISODIO: S02E09 - Episódio 9|http://redeflixapi.store/serie/196421/2/9
+#EPISODIO: S02E10 - Episódio 10|http://redeflixapi.store/serie/196421/2/10
+#EPISODIO: S02E11 - Episódio 11|http://redeflixapi.store/serie/196421/2/11
+#EPISODIO: S02E12 - Episódio 12|http://redeflixapi.store/serie/196421/2/12
+#EPISODIO: S03E01 - Episódio 1|http://redeflixapi.store/serie/196421/3/1
+#EPISODIO: S03E02 - Episódio 2|http://redeflixapi.store/serie/196421/3/2
+#EPISODIO: S03E03 - Episódio 3|http://redeflixapi.store/serie/196421/3/3
+#EPISODIO: S03E04 - Episódio 4|http://redeflixapi.store/serie/196421/3/4
+#EPISODIO: S03E05 - Episódio 5|http://redeflixapi.store/serie/196421/3/5
+#EPISODIO: S03E06 - Episódio 6|http://redeflixapi.store/serie/196421/3/6
+#EPISODIO: S03E07 - Episódio 7|http://redeflixapi.store/serie/196421/3/7
+#EPISODIO: S03E08 - Episódio 8|http://redeflixapi.store/serie/196421/3/8
+#EPISODIO: S03E09 - Episódio 9|http://redeflixapi.store/serie/196421/3/9
+#EPISODIO: S03E10 - Episódio 10|http://redeflixapi.store/serie/196421/3/10
+#EPISODIO: S03E11 - Episódio 11|http://redeflixapi.store/serie/196421/3/11
+#EPISODIO: S03E12 - Episódio 12|http://redeflixapi.store/serie/196421/3/12
+# ==========================================
+# 📺 Mar Branco (2023) - 3 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/zOWReNps2GIjjM4xJd6uXfe09r2.jpg", [SERIE] Mar Branco (2023)
+#SINOPSE: Um barco repleto de cocaína afunda na ilha onde Eduardo nasceu, e ele vê ali uma oportunidade arriscada de ganhar dinheiro e realizar sonhos impossíveis.
+#EPISODIO: S01E01 - Tempestade|http://redeflixapi.store/serie/202577/1/1
+#EPISODIO: S01E02 - Lei da oferta e procura|http://redeflixapi.store/serie/202577/1/2
+#EPISODIO: S01E03 - Terremoto|http://redeflixapi.store/serie/202577/1/3
+#EPISODIO: S01E04 - O peixe morre pela boca|http://redeflixapi.store/serie/202577/1/4
+#EPISODIO: S01E05 - Ninguém foge de uma ilha|http://redeflixapi.store/serie/202577/1/5
+#EPISODIO: S01E06 - O canto do cisne|http://redeflixapi.store/serie/202577/1/6
+#EPISODIO: S01E07 - Isto não é a América|http://redeflixapi.store/serie/202577/1/7
+#EPISODIO: S02E01 - Lar doce lar|http://redeflixapi.store/serie/202577/2/1
+#EPISODIO: S02E02 - A volta dos mortos-vivos|http://redeflixapi.store/serie/202577/2/2
+#EPISODIO: S02E03 - Amigos para sempre|http://redeflixapi.store/serie/202577/2/3
+#EPISODIO: S02E04 - Atum grande|http://redeflixapi.store/serie/202577/2/4
+#EPISODIO: S02E05 - Lançar a pedra, esconder a mão|http://redeflixapi.store/serie/202577/2/5
+#EPISODIO: S02E06 - Está chovendo cocaína|http://redeflixapi.store/serie/202577/2/6
+#EPISODIO: S03E01 - Episódio 1|http://redeflixapi.store/serie/202577/3/1
+#EPISODIO: S03E02 - Episódio 2|http://redeflixapi.store/serie/202577/3/2
+#EPISODIO: S03E03 - Episódio 3|http://redeflixapi.store/serie/202577/3/3
+#EPISODIO: S03E04 - Episódio 4|http://redeflixapi.store/serie/202577/3/4
+#EPISODIO: S03E05 - Episódio 5|http://redeflixapi.store/serie/202577/3/5
+#EPISODIO: S03E06 - Episódio 6|http://redeflixapi.store/serie/202577/3/6
+# ==========================================
+# 📺 Entre Estranhos (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/kjgM6baJMb4889MxHLwFAePowcb.jpg", [SERIE] Entre Estranhos (2023)
+#SINOPSE: Um suspense psicológico que se passa em Manhattan no verão de 1979, quando um jovem é preso por um crime chocante, e uma investigadora improvável deve solucionar o mistério por trás dele.
+#EPISODIO: S01E01 - Êxodo|http://redeflixapi.store/serie/123192/1/1
+#EPISODIO: S01E02 - Santuário|http://redeflixapi.store/serie/123192/1/2
+#EPISODIO: S01E03 - Homicídio|http://redeflixapi.store/serie/123192/1/3
+#EPISODIO: S01E04 - Londres|http://redeflixapi.store/serie/123192/1/4
+#EPISODIO: S01E05 - Salvador|http://redeflixapi.store/serie/123192/1/5
+#EPISODIO: S01E06 - Rya|http://redeflixapi.store/serie/123192/1/6
+#EPISODIO: S01E07 - Entre estranhos|http://redeflixapi.store/serie/123192/1/7
+#EPISODIO: S01E08 - Reunião|http://redeflixapi.store/serie/123192/1/8
+#EPISODIO: S01E09 - Família|http://redeflixapi.store/serie/123192/1/9
+#EPISODIO: S01E10 - Julgamento|http://redeflixapi.store/serie/123192/1/10
+# ==========================================
+# 📺 Fantasmas de Beirute (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg", [SERIE] Fantasmas de Beirute (2023)
+#SINOPSE: A série conta a história de origem de Mughniyeh, de 21 anos, um indescritível terrorista libanês que escapou da captura da CIA e do Mossad por duas décadas.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/224009/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/224009/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/224009/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/224009/1/4
+# ==========================================
+# 📺 Baseado Numa História Real (2023) - 2 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/ju8ebFZ6VpH1ltR9DCu8kC23pFW.jpg", [SERIE] Baseado Numa História Real (2023)
+#SINOPSE: As vidas de um corretor de imóveis, um encanador e uma ex-estrela do tênis colidem inesperadamente, expondo a obsessão da América por crimes verdadeiros, assassinatos e o fechamento lento do assento do vaso sanitário.
+#EPISODIO: S01E01 - A Grande Arte Americana|http://redeflixapi.store/serie/197373/1/1
+#EPISODIO: S01E02 - Cara de Bem-Dotado|http://redeflixapi.store/serie/197373/1/2
+#EPISODIO: S01E03 - Quem é a Próxima?|http://redeflixapi.store/serie/197373/1/3
+#EPISODIO: S01E04 - A Sobrevivente|http://redeflixapi.store/serie/197373/1/4
+#EPISODIO: S01E05 - Abridor de Garrafa do Ted Bundy|http://redeflixapi.store/serie/197373/1/5
+#EPISODIO: S01E06 - Te Amo, BuzzFeed|http://redeflixapi.store/serie/197373/1/6
+#EPISODIO: S01E07 - National Geographic|http://redeflixapi.store/serie/197373/1/7
+#EPISODIO: S01E08 - O Universo|http://redeflixapi.store/serie/197373/1/8
+#EPISODIO: S02E01 - Ouro Líquido|http://redeflixapi.store/serie/197373/2/1
+#EPISODIO: S02E02 - Control F para Assassinato|http://redeflixapi.store/serie/197373/2/2
+#EPISODIO: S02E03 - Recaída|http://redeflixapi.store/serie/197373/2/3
+#EPISODIO: S02E04 - Está Preparado?|http://redeflixapi.store/serie/197373/2/4
+#EPISODIO: S02E05 - Dupla Falta|http://redeflixapi.store/serie/197373/2/5
+#EPISODIO: S02E06 - Baseado na História de Drew|http://redeflixapi.store/serie/197373/2/6
+#EPISODIO: S02E07 - Casamento de Matar|http://redeflixapi.store/serie/197373/2/7
+#EPISODIO: S02E08 - Convidado da Semana|http://redeflixapi.store/serie/197373/2/8
+# ==========================================
+# 📺 Mentes Criminosas (2005) - 19 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/trZTeHWcWDn6adkBBuSwfIhxAJn.jpg", [SERIE] Mentes Criminosas (2005)
+#SINOPSE: Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.
+#EPISODIO: S01E01 - Agressor Extremo|http://redeflixapi.store/serie/4057/1/1
+#EPISODIO: S01E02 - Compulsão|http://redeflixapi.store/serie/4057/1/2
+#EPISODIO: S01E03 - Não Vou Ser Enganado de Novo|http://redeflixapi.store/serie/4057/1/3
+#EPISODIO: S01E04 - A Vista|http://redeflixapi.store/serie/4057/1/4
+#EPISODIO: S01E05 - Espelho Quebrado|http://redeflixapi.store/serie/4057/1/5
+#EPISODIO: S01E06 - L.S.D.K.|http://redeflixapi.store/serie/4057/1/6
+#EPISODIO: S01E07 - A Raposa|http://redeflixapi.store/serie/4057/1/7
+#EPISODIO: S01E08 - Assassino Nato|http://redeflixapi.store/serie/4057/1/8
+#EPISODIO: S01E09 - Perturbado|http://redeflixapi.store/serie/4057/1/9
+#EPISODIO: S01E10 - Os Garotos Populares|http://redeflixapi.store/serie/4057/1/10
+#EPISODIO: S01E11 - Faminto de Sangue|http://redeflixapi.store/serie/4057/1/11
+#EPISODIO: S01E12 - Que Inferno|http://redeflixapi.store/serie/4057/1/12
+#EPISODIO: S01E13 - Veneno|http://redeflixapi.store/serie/4057/1/13
+#EPISODIO: S01E14 - Cavalgando o Relâmpago|http://redeflixapi.store/serie/4057/1/14
+#EPISODIO: S01E15 - Negócios Inacabados|http://redeflixapi.store/serie/4057/1/15
+#EPISODIO: S01E16 - A Tribo|http://redeflixapi.store/serie/4057/1/16
+#EPISODIO: S01E17 - Uma Chuva de Verdade|http://redeflixapi.store/serie/4057/1/17
+#EPISODIO: S01E18 - Alguém Esta observando|http://redeflixapi.store/serie/4057/1/18
+#EPISODIO: S01E19 - Machismo|http://redeflixapi.store/serie/4057/1/19
+#EPISODIO: S01E20 - Charme e Maldade|http://redeflixapi.store/serie/4057/1/20
+#EPISODIO: S01E21 - Segredos e Mentiras|http://redeflixapi.store/serie/4057/1/21
+#EPISODIO: S01E22 - Pescador de Ilusões (1)|http://redeflixapi.store/serie/4057/1/22
+#EPISODIO: S02E01 - Pescador de Ilusões (2)|http://redeflixapi.store/serie/4057/2/1
+#EPISODIO: S02E02 - pedofilia|http://redeflixapi.store/serie/4057/2/2
+#EPISODIO: S02E03 - A Tempestade Perfeita|http://redeflixapi.store/serie/4057/2/3
+#EPISODIO: S02E04 - Psicodrama|http://redeflixapi.store/serie/4057/2/4
+#EPISODIO: S02E05 - As Consequências|http://redeflixapi.store/serie/4057/2/5
+#EPISODIO: S02E06 - O Bicho-Papão|http://redeflixapi.store/serie/4057/2/6
+#EPISODIO: S02E07 - Jovens Desaparecidas|http://redeflixapi.store/serie/4057/2/7
+#EPISODIO: S02E08 - Planeta Vazio|http://redeflixapi.store/serie/4057/2/8
+#EPISODIO: S02E09 - A Última Palavra|http://redeflixapi.store/serie/4057/2/9
+#EPISODIO: S02E10 - Lições Aprendidas|http://redeflixapi.store/serie/4057/2/10
+#EPISODIO: S02E11 - Sexo, nascimento e Morte|http://redeflixapi.store/serie/4057/2/11
+#EPISODIO: S02E12 - O Agente Preso|http://redeflixapi.store/serie/4057/2/12
+#EPISODIO: S02E13 - Sem Saída (1)|http://redeflixapi.store/serie/4057/2/13
+#EPISODIO: S02E14 - O Grande Jogo (1)|http://redeflixapi.store/serie/4057/2/14
+#EPISODIO: S02E15 - Revelações (2)|http://redeflixapi.store/serie/4057/2/15
+#EPISODIO: S02E16 - Medo e Repúdio|http://redeflixapi.store/serie/4057/2/16
+#EPISODIO: S02E17 - Angústias|http://redeflixapi.store/serie/4057/2/17
+#EPISODIO: S02E18 - Jones|http://redeflixapi.store/serie/4057/2/18
+#EPISODIO: S02E19 - Cinzas e Pó|http://redeflixapi.store/serie/4057/2/19
+#EPISODIO: S02E20 - Honra Entre ladrões|http://redeflixapi.store/serie/4057/2/20
+#EPISODIO: S02E21 - Aparecimento dos Mortos|http://redeflixapi.store/serie/4057/2/21
+#EPISODIO: S02E22 - Legado|http://redeflixapi.store/serie/4057/2/22
+#EPISODIO: S02E23 - Sem Saída (2)|http://redeflixapi.store/serie/4057/2/23
+#EPISODIO: S03E01 - Doubt|http://redeflixapi.store/serie/4057/3/1
+#EPISODIO: S03E02 - In Birth And Death|http://redeflixapi.store/serie/4057/3/2
+#EPISODIO: S03E03 - Scared To Death|http://redeflixapi.store/serie/4057/3/3
+#EPISODIO: S03E04 - Children Of The Dark|http://redeflixapi.store/serie/4057/3/4
+#EPISODIO: S03E05 - Seven Seconds|http://redeflixapi.store/serie/4057/3/5
+#EPISODIO: S03E06 - About Face|http://redeflixapi.store/serie/4057/3/6
+#EPISODIO: S03E07 - Identity|http://redeflixapi.store/serie/4057/3/7
+#EPISODIO: S03E08 - Lucky (1)|http://redeflixapi.store/serie/4057/3/8
+#EPISODIO: S03E09 - Penelope (2)|http://redeflixapi.store/serie/4057/3/9
+#EPISODIO: S03E10 - True Night|http://redeflixapi.store/serie/4057/3/10
+#EPISODIO: S03E11 - Birthright|http://redeflixapi.store/serie/4057/3/11
+#EPISODIO: S03E12 - 3rd Life|http://redeflixapi.store/serie/4057/3/12
+#EPISODIO: S03E13 - Limelight|http://redeflixapi.store/serie/4057/3/13
+#EPISODIO: S03E14 - Damaged|http://redeflixapi.store/serie/4057/3/14
+#EPISODIO: S03E15 - A Higher Power|http://redeflixapi.store/serie/4057/3/15
+#EPISODIO: S03E16 - Elephant's Memory|http://redeflixapi.store/serie/4057/3/16
+#EPISODIO: S03E17 - In Heat|http://redeflixapi.store/serie/4057/3/17
+#EPISODIO: S03E18 - The Crossing|http://redeflixapi.store/serie/4057/3/18
+#EPISODIO: S03E19 - Tabula Rasa|http://redeflixapi.store/serie/4057/3/19
+#EPISODIO: S03E20 - Lo-Fi|http://redeflixapi.store/serie/4057/3/20
+#EPISODIO: S04E01 - Mayhem|http://redeflixapi.store/serie/4057/4/1
+#EPISODIO: S04E02 - The Angel Maker|http://redeflixapi.store/serie/4057/4/2
+#EPISODIO: S04E03 - Minimal Loss|http://redeflixapi.store/serie/4057/4/3
+#EPISODIO: S04E04 - Paradise|http://redeflixapi.store/serie/4057/4/4
+#EPISODIO: S04E05 - Catching Out|http://redeflixapi.store/serie/4057/4/5
+#EPISODIO: S04E06 - The Instincts|http://redeflixapi.store/serie/4057/4/6
+#EPISODIO: S04E07 - Memorian|http://redeflixapi.store/serie/4057/4/7
+#EPISODIO: S04E08 - Masterpiece|http://redeflixapi.store/serie/4057/4/8
+#EPISODIO: S04E09 - 52 Pickup|http://redeflixapi.store/serie/4057/4/9
+#EPISODIO: S04E10 - Brother in Arms|http://redeflixapi.store/serie/4057/4/10
+#EPISODIO: S04E11 - Normal|http://redeflixapi.store/serie/4057/4/11
+#EPISODIO: S04E12 - Soul Mates|http://redeflixapi.store/serie/4057/4/12
+#EPISODIO: S04E13 - Bloodline|http://redeflixapi.store/serie/4057/4/13
+#EPISODIO: S04E14 - Cold Comfort|http://redeflixapi.store/serie/4057/4/14
+#EPISODIO: S04E15 - Zoe's Reprise|http://redeflixapi.store/serie/4057/4/15
+#EPISODIO: S04E16 - Pleasure is my Business|http://redeflixapi.store/serie/4057/4/16
+#EPISODIO: S04E17 - Demonology|http://redeflixapi.store/serie/4057/4/17
+#EPISODIO: S04E18 - Omnivore|http://redeflixapi.store/serie/4057/4/18
+#EPISODIO: S04E19 - House on Fire|http://redeflixapi.store/serie/4057/4/19
+#EPISODIO: S04E20 - Conflicted|http://redeflixapi.store/serie/4057/4/20
+#EPISODIO: S04E21 - A Shade of Gray|http://redeflixapi.store/serie/4057/4/21
+#EPISODIO: S04E22 - The Big Wheel|http://redeflixapi.store/serie/4057/4/22
+#EPISODIO: S04E23 - Roadkill|http://redeflixapi.store/serie/4057/4/23
+#EPISODIO: S04E24 - Amplification|http://redeflixapi.store/serie/4057/4/24
+#EPISODIO: S04E25 - To Hell... and Back (1)|http://redeflixapi.store/serie/4057/4/25
+#EPISODIO: S04E26 - To Hell... and Back (2)|http://redeflixapi.store/serie/4057/4/26
+#EPISODIO: S05E01 - Faceless, Nameless|http://redeflixapi.store/serie/4057/5/1
+#EPISODIO: S05E02 - Haunted|http://redeflixapi.store/serie/4057/5/2
+#EPISODIO: S05E03 - Reckoner|http://redeflixapi.store/serie/4057/5/3
+#EPISODIO: S05E04 - Hopeless|http://redeflixapi.store/serie/4057/5/4
+#EPISODIO: S05E05 - Cradle to Grave|http://redeflixapi.store/serie/4057/5/5
+#EPISODIO: S05E06 - The Eyes Have It|http://redeflixapi.store/serie/4057/5/6
+#EPISODIO: S05E07 - The Performer|http://redeflixapi.store/serie/4057/5/7
+#EPISODIO: S05E08 - Outfoxed|http://redeflixapi.store/serie/4057/5/8
+#EPISODIO: S05E09 - 100|http://redeflixapi.store/serie/4057/5/9
+#EPISODIO: S05E10 - The Slave of Duty|http://redeflixapi.store/serie/4057/5/10
+#EPISODIO: S05E11 - Retaliation|http://redeflixapi.store/serie/4057/5/11
+#EPISODIO: S05E12 - The Uncanny Valley|http://redeflixapi.store/serie/4057/5/12
+#EPISODIO: S05E13 - Risky Business|http://redeflixapi.store/serie/4057/5/13
+#EPISODIO: S05E14 - Parasite|http://redeflixapi.store/serie/4057/5/14
+#EPISODIO: S05E15 - Public Enemy|http://redeflixapi.store/serie/4057/5/15
+#EPISODIO: S05E16 - Mosley Lane|http://redeflixapi.store/serie/4057/5/16
+#EPISODIO: S05E17 - Solitary Man|http://redeflixapi.store/serie/4057/5/17
+#EPISODIO: S05E18 - The Fight|http://redeflixapi.store/serie/4057/5/18
+#EPISODIO: S05E19 - Rite of Passage|http://redeflixapi.store/serie/4057/5/19
+#EPISODIO: S05E20 - A Thousand Words|http://redeflixapi.store/serie/4057/5/20
+#EPISODIO: S05E21 - Exit Wounds|http://redeflixapi.store/serie/4057/5/21
+#EPISODIO: S05E22 - The Internet is Forever|http://redeflixapi.store/serie/4057/5/22
+#EPISODIO: S05E23 - Our Darkest Hour|http://redeflixapi.store/serie/4057/5/23
+#EPISODIO: S06E01 - The Longest Night|http://redeflixapi.store/serie/4057/6/1
+#EPISODIO: S06E02 - JJ|http://redeflixapi.store/serie/4057/6/2
+#EPISODIO: S06E03 - Remembrance of Things Past|http://redeflixapi.store/serie/4057/6/3
+#EPISODIO: S06E04 - Compromising Positions|http://redeflixapi.store/serie/4057/6/4
+#EPISODIO: S06E05 - Safe Heaven|http://redeflixapi.store/serie/4057/6/5
+#EPISODIO: S06E06 - Devil's Night|http://redeflixapi.store/serie/4057/6/6
+#EPISODIO: S06E07 - Middle Man|http://redeflixapi.store/serie/4057/6/7
+#EPISODIO: S06E08 - Reflection of Desire|http://redeflixapi.store/serie/4057/6/8
+#EPISODIO: S06E09 - Into the Woods|http://redeflixapi.store/serie/4057/6/9
+#EPISODIO: S06E10 - What Happens at Home|http://redeflixapi.store/serie/4057/6/10
+#EPISODIO: S06E11 - 25 to Life|http://redeflixapi.store/serie/4057/6/11
+#EPISODIO: S06E12 - Corazon|http://redeflixapi.store/serie/4057/6/12
+#EPISODIO: S06E13 - The Thirteenth Step|http://redeflixapi.store/serie/4057/6/13
+#EPISODIO: S06E14 - Sense Memory|http://redeflixapi.store/serie/4057/6/14
+#EPISODIO: S06E15 - Today I Do|http://redeflixapi.store/serie/4057/6/15
+#EPISODIO: S06E16 - Coda|http://redeflixapi.store/serie/4057/6/16
+#EPISODIO: S06E17 - Valhalla|http://redeflixapi.store/serie/4057/6/17
+#EPISODIO: S06E18 - Lauren|http://redeflixapi.store/serie/4057/6/18
+#EPISODIO: S06E19 - With Friends Like These...|http://redeflixapi.store/serie/4057/6/19
+#EPISODIO: S06E20 - Hanley Waters|http://redeflixapi.store/serie/4057/6/20
+#EPISODIO: S06E21 - The Stranger|http://redeflixapi.store/serie/4057/6/21
+#EPISODIO: S06E22 - Out of the Light|http://redeflixapi.store/serie/4057/6/22
+#EPISODIO: S06E23 - Big Sea|http://redeflixapi.store/serie/4057/6/23
+#EPISODIO: S06E24 - Supply & Demand|http://redeflixapi.store/serie/4057/6/24
+#EPISODIO: S07E01 - It Takes a Village|http://redeflixapi.store/serie/4057/7/1
+#EPISODIO: S07E02 - Proof|http://redeflixapi.store/serie/4057/7/2
+#EPISODIO: S07E03 - Dorado Falls|http://redeflixapi.store/serie/4057/7/3
+#EPISODIO: S07E04 - Painless|http://redeflixapi.store/serie/4057/7/4
+#EPISODIO: S07E05 - From Childhood's Hour|http://redeflixapi.store/serie/4057/7/5
+#EPISODIO: S07E06 - Epilogue|http://redeflixapi.store/serie/4057/7/6
+#EPISODIO: S07E07 - There's No Place Like Home|http://redeflixapi.store/serie/4057/7/7
+#EPISODIO: S07E08 - Hope|http://redeflixapi.store/serie/4057/7/8
+#EPISODIO: S07E09 - Self-Fulfilling Prophecy|http://redeflixapi.store/serie/4057/7/9
+#EPISODIO: S07E10 - The Bittersweet Science|http://redeflixapi.store/serie/4057/7/10
+#EPISODIO: S07E11 - True Genius|http://redeflixapi.store/serie/4057/7/11
+#EPISODIO: S07E12 - Unknown Subject|http://redeflixapi.store/serie/4057/7/12
+#EPISODIO: S07E13 - Snake Eyes|http://redeflixapi.store/serie/4057/7/13
+#EPISODIO: S07E14 - Closing Time|http://redeflixapi.store/serie/4057/7/14
+#EPISODIO: S07E15 - A Thin Line|http://redeflixapi.store/serie/4057/7/15
+#EPISODIO: S07E16 - A Family Affair|http://redeflixapi.store/serie/4057/7/16
+#EPISODIO: S07E17 - I Love You, Tommy Brown|http://redeflixapi.store/serie/4057/7/17
+#EPISODIO: S07E18 - Foundation|http://redeflixapi.store/serie/4057/7/18
+#EPISODIO: S07E19 - Heathridge Manor|http://redeflixapi.store/serie/4057/7/19
+#EPISODIO: S07E20 - The Company|http://redeflixapi.store/serie/4057/7/20
+#EPISODIO: S07E21 - Divining Rod|http://redeflixapi.store/serie/4057/7/21
+#EPISODIO: S07E22 - Profiling 101|http://redeflixapi.store/serie/4057/7/22
+#EPISODIO: S07E23 - Hit|http://redeflixapi.store/serie/4057/7/23
+#EPISODIO: S07E24 - Run|http://redeflixapi.store/serie/4057/7/24
+#EPISODIO: S08E01 - The Silencer|http://redeflixapi.store/serie/4057/8/1
+#EPISODIO: S08E02 - The Pact|http://redeflixapi.store/serie/4057/8/2
+#EPISODIO: S08E03 - Through the Looking Glass|http://redeflixapi.store/serie/4057/8/3
+#EPISODIO: S08E04 - God Complex|http://redeflixapi.store/serie/4057/8/4
+#EPISODIO: S08E05 - The Good Earth|http://redeflixapi.store/serie/4057/8/5
+#EPISODIO: S08E06 - The Apprenticeship|http://redeflixapi.store/serie/4057/8/6
+#EPISODIO: S08E07 - The Fallen|http://redeflixapi.store/serie/4057/8/7
+#EPISODIO: S08E08 - The Wheels on the Bus...|http://redeflixapi.store/serie/4057/8/8
+#EPISODIO: S08E09 - Magnificent Light|http://redeflixapi.store/serie/4057/8/9
+#EPISODIO: S08E10 - The Lesson|http://redeflixapi.store/serie/4057/8/10
+#EPISODIO: S08E11 - Perennials|http://redeflixapi.store/serie/4057/8/11
+#EPISODIO: S08E12 - Zugzwang|http://redeflixapi.store/serie/4057/8/12
+#EPISODIO: S08E13 - Magnum Opus|http://redeflixapi.store/serie/4057/8/13
+#EPISODIO: S08E14 - All That Remains|http://redeflixapi.store/serie/4057/8/14
+#EPISODIO: S08E15 - Broken|http://redeflixapi.store/serie/4057/8/15
+#EPISODIO: S08E16 - Carbon Copy|http://redeflixapi.store/serie/4057/8/16
+#EPISODIO: S08E17 - The Gathering|http://redeflixapi.store/serie/4057/8/17
+#EPISODIO: S08E18 - Restoration|http://redeflixapi.store/serie/4057/8/18
+#EPISODIO: S08E19 - Pay It Forward|http://redeflixapi.store/serie/4057/8/19
+#EPISODIO: S08E20 - Alchemy|http://redeflixapi.store/serie/4057/8/20
+#EPISODIO: S08E21 - Nanny Dearest|http://redeflixapi.store/serie/4057/8/21
+#EPISODIO: S08E22 - #6|http://redeflixapi.store/serie/4057/8/22
+#EPISODIO: S08E23 - Brothers Hotchner|http://redeflixapi.store/serie/4057/8/23
+#EPISODIO: S08E24 - The Replicator|http://redeflixapi.store/serie/4057/8/24
+#EPISODIO: S09E01 - The Inspiration|http://redeflixapi.store/serie/4057/9/1
+#EPISODIO: S09E02 - The Inspired|http://redeflixapi.store/serie/4057/9/2
+#EPISODIO: S09E03 - Final Shot|http://redeflixapi.store/serie/4057/9/3
+#EPISODIO: S09E04 - To Bear Witness|http://redeflixapi.store/serie/4057/9/4
+#EPISODIO: S09E05 - Route 66|http://redeflixapi.store/serie/4057/9/5
+#EPISODIO: S09E06 - In the Blood|http://redeflixapi.store/serie/4057/9/6
+#EPISODIO: S09E07 - Gatekeeper|http://redeflixapi.store/serie/4057/9/7
+#EPISODIO: S09E08 - The Return|http://redeflixapi.store/serie/4057/9/8
+#EPISODIO: S09E09 - Strange Fruit|http://redeflixapi.store/serie/4057/9/9
+#EPISODIO: S09E10 - The Caller|http://redeflixapi.store/serie/4057/9/10
+#EPISODIO: S09E11 - Bully|http://redeflixapi.store/serie/4057/9/11
+#EPISODIO: S09E12 - The Black Queen|http://redeflixapi.store/serie/4057/9/12
+#EPISODIO: S09E13 - The Road Home|http://redeflixapi.store/serie/4057/9/13
+#EPISODIO: S09E14 - 200|http://redeflixapi.store/serie/4057/9/14
+#EPISODIO: S09E15 - Mr. & Mrs. Anderson|http://redeflixapi.store/serie/4057/9/15
+#EPISODIO: S09E16 - Gabby|http://redeflixapi.store/serie/4057/9/16
+#EPISODIO: S09E17 - Persuasion|http://redeflixapi.store/serie/4057/9/17
+#EPISODIO: S09E18 - Rabid|http://redeflixapi.store/serie/4057/9/18
+#EPISODIO: S09E19 - The Edge of Winter|http://redeflixapi.store/serie/4057/9/19
+#EPISODIO: S09E20 - Blood Relations|http://redeflixapi.store/serie/4057/9/20
+#EPISODIO: S09E21 - What Happens in Mecklinburg|http://redeflixapi.store/serie/4057/9/21
+#EPISODIO: S09E22 - Fatal|http://redeflixapi.store/serie/4057/9/22
+#EPISODIO: S09E23 - Angels|http://redeflixapi.store/serie/4057/9/23
+#EPISODIO: S09E24 - Demons|http://redeflixapi.store/serie/4057/9/24
+#EPISODIO: S10E01 - X|http://redeflixapi.store/serie/4057/10/1
+#EPISODIO: S10E02 - Burn|http://redeflixapi.store/serie/4057/10/2
+#EPISODIO: S10E03 - A Thousand Suns|http://redeflixapi.store/serie/4057/10/3
+#EPISODIO: S10E04 - The Itch|http://redeflixapi.store/serie/4057/10/4
+#EPISODIO: S10E05 - Boxed In|http://redeflixapi.store/serie/4057/10/5
+#EPISODIO: S10E06 - If The Shoe Fits|http://redeflixapi.store/serie/4057/10/6
+#EPISODIO: S10E07 - Hashtag|http://redeflixapi.store/serie/4057/10/7
+#EPISODIO: S10E08 - The Boys of Sudworth Place|http://redeflixapi.store/serie/4057/10/8
+#EPISODIO: S10E09 - Fate|http://redeflixapi.store/serie/4057/10/9
+#EPISODIO: S10E10 - Amelia Porter|http://redeflixapi.store/serie/4057/10/10
+#EPISODIO: S10E11 - The Forever People|http://redeflixapi.store/serie/4057/10/11
+#EPISODIO: S10E12 - Anonymous|http://redeflixapi.store/serie/4057/10/12
+#EPISODIO: S10E13 - Nelson's Sparrow|http://redeflixapi.store/serie/4057/10/13
+#EPISODIO: S10E14 - Hero Worship|http://redeflixapi.store/serie/4057/10/14
+#EPISODIO: S10E15 - Scream|http://redeflixapi.store/serie/4057/10/15
+#EPISODIO: S10E16 - Lockdown|http://redeflixapi.store/serie/4057/10/16
+#EPISODIO: S10E17 - Breath Play|http://redeflixapi.store/serie/4057/10/17
+#EPISODIO: S10E18 - Rock Creek Park|http://redeflixapi.store/serie/4057/10/18
+#EPISODIO: S10E19 - Beyond Borders|http://redeflixapi.store/serie/4057/10/19
+#EPISODIO: S10E20 - A Place at the Table|http://redeflixapi.store/serie/4057/10/20
+#EPISODIO: S10E21 - Mr. Scratch|http://redeflixapi.store/serie/4057/10/21
+#EPISODIO: S10E22 - Protection|http://redeflixapi.store/serie/4057/10/22
+#EPISODIO: S10E23 - The Hunt|http://redeflixapi.store/serie/4057/10/23
+#EPISODIO: S11E01 - The Job|http://redeflixapi.store/serie/4057/11/1
+#EPISODIO: S11E02 - The Witness|http://redeflixapi.store/serie/4057/11/2
+#EPISODIO: S11E03 - Til Death Do Us Part|http://redeflixapi.store/serie/4057/11/3
+#EPISODIO: S11E04 - Outlaw|http://redeflixapi.store/serie/4057/11/4
+#EPISODIO: S11E05 - The Night Watch|http://redeflixapi.store/serie/4057/11/5
+#EPISODIO: S11E06 - Pariahville|http://redeflixapi.store/serie/4057/11/6
+#EPISODIO: S11E07 - Target Rich|http://redeflixapi.store/serie/4057/11/7
+#EPISODIO: S11E08 - Awake|http://redeflixapi.store/serie/4057/11/8
+#EPISODIO: S11E09 - Internal Affairs|http://redeflixapi.store/serie/4057/11/9
+#EPISODIO: S11E10 - Future Perfect|http://redeflixapi.store/serie/4057/11/10
+#EPISODIO: S11E11 - Entropy|http://redeflixapi.store/serie/4057/11/11
+#EPISODIO: S11E12 - Drive|http://redeflixapi.store/serie/4057/11/12
+#EPISODIO: S11E13 - The Bond|http://redeflixapi.store/serie/4057/11/13
+#EPISODIO: S11E14 - Hostage|http://redeflixapi.store/serie/4057/11/14
+#EPISODIO: S11E15 - A Badge and a Gun|http://redeflixapi.store/serie/4057/11/15
+#EPISODIO: S11E16 - Derek|http://redeflixapi.store/serie/4057/11/16
+#EPISODIO: S11E17 - The Sandman|http://redeflixapi.store/serie/4057/11/17
+#EPISODIO: S11E18 - A Beautiful Disaster|http://redeflixapi.store/serie/4057/11/18
+#EPISODIO: S11E19 - Tribute|http://redeflixapi.store/serie/4057/11/19
+#EPISODIO: S11E20 - Inner Beauty|http://redeflixapi.store/serie/4057/11/20
+#EPISODIO: S11E21 - Devil's Backbone|http://redeflixapi.store/serie/4057/11/21
+#EPISODIO: S11E22 - The Storm|http://redeflixapi.store/serie/4057/11/22
+#EPISODIO: S12E01 - O Rei Carmesim|http://redeflixapi.store/serie/4057/12/1
+#EPISODIO: S12E02 - Abalada|http://redeflixapi.store/serie/4057/12/2
+#EPISODIO: S12E03 - Tabu|http://redeflixapi.store/serie/4057/12/3
+#EPISODIO: S12E04 - Guardião|http://redeflixapi.store/serie/4057/12/4
+#EPISODIO: S12E05 - O Esquadrão Anti-Terror|http://redeflixapi.store/serie/4057/12/5
+#EPISODIO: S12E06 - Lagoa de Elliott|http://redeflixapi.store/serie/4057/12/6
+#EPISODIO: S12E07 - Mirror Image|http://redeflixapi.store/serie/4057/12/7
+#EPISODIO: S12E08 - Scarecrow|http://redeflixapi.store/serie/4057/12/8
+#EPISODIO: S12E09 - Profiling 202|http://redeflixapi.store/serie/4057/12/9
+#EPISODIO: S12E10 - Seek & Destroy|http://redeflixapi.store/serie/4057/12/10
+#EPISODIO: S12E11 - Surface Tension|http://redeflixapi.store/serie/4057/12/11
+#EPISODIO: S12E12 - A Good Husband|http://redeflixapi.store/serie/4057/12/12
+#EPISODIO: S12E13 - Spencer|http://redeflixapi.store/serie/4057/12/13
+#EPISODIO: S12E14 - Collision Course|http://redeflixapi.store/serie/4057/12/14
+#EPISODIO: S12E15 - Alpha Male|http://redeflixapi.store/serie/4057/12/15
+#EPISODIO: S12E16 - Assistance Is Futile|http://redeflixapi.store/serie/4057/12/16
+#EPISODIO: S12E17 - In the Dark|http://redeflixapi.store/serie/4057/12/17
+#EPISODIO: S12E18 - Hell's Kitchen|http://redeflixapi.store/serie/4057/12/18
+#EPISODIO: S12E19 - True North|http://redeflixapi.store/serie/4057/12/19
+#EPISODIO: S12E20 - Unforgettable|http://redeflixapi.store/serie/4057/12/20
+#EPISODIO: S12E21 - Green Light|http://redeflixapi.store/serie/4057/12/21
+#EPISODIO: S12E22 - Red Light|http://redeflixapi.store/serie/4057/12/22
+#EPISODIO: S13E01 - Levantando Voo|http://redeflixapi.store/serie/4057/13/1
+#EPISODIO: S13E02 - Para um Lugar Melhor|http://redeflixapi.store/serie/4057/13/2
+#EPISODIO: S13E03 - Anjo Azul|http://redeflixapi.store/serie/4057/13/3
+#EPISODIO: S13E04 - Aplicativo Assassino|http://redeflixapi.store/serie/4057/13/4
+#EPISODIO: S13E05 - Golpe de Sorte|http://redeflixapi.store/serie/4057/13/5
+#EPISODIO: S13E06 - O Abrigo|http://redeflixapi.store/serie/4057/13/6
+#EPISODIO: S13E07 - Pó e Ossos|http://redeflixapi.store/serie/4057/13/7
+#EPISODIO: S13E08 - Terror Neon|http://redeflixapi.store/serie/4057/13/8
+#EPISODIO: S13E09 - Bandeira Falsa|http://redeflixapi.store/serie/4057/13/9
+#EPISODIO: S13E10 - Submerso|http://redeflixapi.store/serie/4057/13/10
+#EPISODIO: S13E11 - Com Toda Força|http://redeflixapi.store/serie/4057/13/11
+#EPISODIO: S13E12 - Lua Má em Ascensão|http://redeflixapi.store/serie/4057/13/12
+#EPISODIO: S13E13 - Cura|http://redeflixapi.store/serie/4057/13/13
+#EPISODIO: S13E14 - Miasma|http://redeflixapi.store/serie/4057/13/14
+#EPISODIO: S13E15 - Aniquilador|http://redeflixapi.store/serie/4057/13/15
+#EPISODIO: S13E16 - Último Suspiro|http://redeflixapi.store/serie/4057/13/16
+#EPISODIO: S13E17 - O Palhaço|http://redeflixapi.store/serie/4057/13/17
+#EPISODIO: S13E18 - Dança do Amor|http://redeflixapi.store/serie/4057/13/18
+#EPISODIO: S13E19 - Ex Parte|http://redeflixapi.store/serie/4057/13/19
+#EPISODIO: S13E20 - Tudo o Que Você Pode Comer|http://redeflixapi.store/serie/4057/13/20
+#EPISODIO: S13E21 - Sinais Confusos|http://redeflixapi.store/serie/4057/13/21
+#EPISODIO: S13E22 - Crente|http://redeflixapi.store/serie/4057/13/22
+#EPISODIO: S14E01 - 300|http://redeflixapi.store/serie/4057/14/1
+#EPISODIO: S14E02 - As Paredes da Casa|http://redeflixapi.store/serie/4057/14/2
+#EPISODIO: S14E03 - Regra 34|http://redeflixapi.store/serie/4057/14/3
+#EPISODIO: S14E04 - Inocência|http://redeflixapi.store/serie/4057/14/4
+#EPISODIO: S14E05 - Homem Alto|http://redeflixapi.store/serie/4057/14/5
+#EPISODIO: S14E06 - Luke|http://redeflixapi.store/serie/4057/14/6
+#EPISODIO: S14E07 - Vinte e Sete|http://redeflixapi.store/serie/4057/14/7
+#EPISODIO: S14E08 - Ashley|http://redeflixapi.store/serie/4057/14/8
+#EPISODIO: S14E09 - Asa Quebrada|http://redeflixapi.store/serie/4057/14/9
+#EPISODIO: S14E10 - Carne e Sangue|http://redeflixapi.store/serie/4057/14/10
+#EPISODIO: S14E11 - Luzes da Noite|http://redeflixapi.store/serie/4057/14/11
+#EPISODIO: S14E12 - Hamelin|http://redeflixapi.store/serie/4057/14/12
+#EPISODIO: S14E13 - Camaleão|http://redeflixapi.store/serie/4057/14/13
+#EPISODIO: S14E14 - As Casas Assombradas|http://redeflixapi.store/serie/4057/14/14
+#EPISODIO: S14E15 - Verdade ou Desafio|http://redeflixapi.store/serie/4057/14/15
+#EPISODIO: S15E01 - Sob a Pele|http://redeflixapi.store/serie/4057/15/1
+#EPISODIO: S15E02 - Lucidez|http://redeflixapi.store/serie/4057/15/2
+#EPISODIO: S15E03 - As Explosões|http://redeflixapi.store/serie/4057/15/3
+#EPISODIO: S15E04 - Sábado|http://redeflixapi.store/serie/4057/15/4
+#EPISODIO: S15E05 - Fantasma|http://redeflixapi.store/serie/4057/15/5
+#EPISODIO: S15E06 - Noite de Encontro|http://redeflixapi.store/serie/4057/15/6
+#EPISODIO: S15E07 - Enferrujado|http://redeflixapi.store/serie/4057/15/7
+#EPISODIO: S15E08 - Árvore Genealógica|http://redeflixapi.store/serie/4057/15/8
+#EPISODIO: S15E09 - Confronto|http://redeflixapi.store/serie/4057/15/9
+#EPISODIO: S15E10 - E no Final…|http://redeflixapi.store/serie/4057/15/10
+#EPISODIO: S16E01 - Apenas Começando|http://redeflixapi.store/serie/4057/16/1
+#EPISODIO: S16E02 - Sicário|http://redeflixapi.store/serie/4057/16/2
+#EPISODIO: S16E03 - Alce|http://redeflixapi.store/serie/4057/16/3
+#EPISODIO: S16E04 - Pay-Per-View|http://redeflixapi.store/serie/4057/16/4
+#EPISODIO: S16E05 - Complexo de Édipo|http://redeflixapi.store/serie/4057/16/5
+#EPISODIO: S16E06 - Convicção Verdadeira|http://redeflixapi.store/serie/4057/16/6
+#EPISODIO: S16E07 - O Que Não Nos Mata...|http://redeflixapi.store/serie/4057/16/7
+#EPISODIO: S16E08 - Não Dar Ponto Sem Nó|http://redeflixapi.store/serie/4057/16/8
+#EPISODIO: S16E09 - Memento Mori|http://redeflixapi.store/serie/4057/16/9
+#EPISODIO: S16E10 - Sem Saída|http://redeflixapi.store/serie/4057/16/10
+#EPISODIO: S17E01 - Estrela de Ouro|http://redeflixapi.store/serie/4057/17/1
+#EPISODIO: S17E02 - Contágio|http://redeflixapi.store/serie/4057/17/2
+#EPISODIO: S17E03 - Saudades de Casa|http://redeflixapi.store/serie/4057/17/3
+#EPISODIO: S17E04 - Reino dos Cegos|http://redeflixapi.store/serie/4057/17/4
+#EPISODIO: S17E05 - Conspiração vs. Teoria|http://redeflixapi.store/serie/4057/17/5
+#EPISODIO: S17E06 - Mensagem na Garrafa|http://redeflixapi.store/serie/4057/17/6
+#EPISODIO: S17E07 - Piranha|http://redeflixapi.store/serie/4057/17/7
+#EPISODIO: S17E08 - Estrela-guia|http://redeflixapi.store/serie/4057/17/8
+#EPISODIO: S17E09 - Estrelas e Listras da Bandeira Americana|http://redeflixapi.store/serie/4057/17/9
+#EPISODIO: S17E10 - Salvem as Crianças|http://redeflixapi.store/serie/4057/17/10
+#EPISODIO: S18E01 - O Cálculo do Nadador|http://redeflixapi.store/serie/4057/18/1
+#EPISODIO: S18E02 - O Guardião do Zoológico|http://redeflixapi.store/serie/4057/18/2
+#EPISODIO: S18E03 - Hora de Dizer Adeus|http://redeflixapi.store/serie/4057/18/3
+#EPISODIO: S18E04 - Estou Bem. Estou Bem. Está Tudo Bem.|http://redeflixapi.store/serie/4057/18/4
+#EPISODIO: S18E05 - O Homem Brutal|http://redeflixapi.store/serie/4057/18/5
+#EPISODIO: S18E06 - O Inferno Está Vazio…|http://redeflixapi.store/serie/4057/18/6
+#EPISODIO: S18E07 - …Todos os Demônios Estão Aqui|http://redeflixapi.store/serie/4057/18/7
+#EPISODIO: S18E08 - Tara|http://redeflixapi.store/serie/4057/18/8
+#EPISODIO: S18E09 - Col1ateral|http://redeflixapi.store/serie/4057/18/9
+#EPISODIO: S18E10 - O Discípulo|http://redeflixapi.store/serie/4057/18/10
+#EPISODIO: S19E01 - Episódio 1|http://redeflixapi.store/serie/4057/19/1
+#EPISODIO: S19E02 - Episódio 2|http://redeflixapi.store/serie/4057/19/2
+#EPISODIO: S19E03 - Episódio 3|http://redeflixapi.store/serie/4057/19/3
+#EPISODIO: S19E04 - Episódio 4|http://redeflixapi.store/serie/4057/19/4
+#EPISODIO: S19E05 - Episódio 5|http://redeflixapi.store/serie/4057/19/5
+#EPISODIO: S19E06 - Episódio 6|http://redeflixapi.store/serie/4057/19/6
+#EPISODIO: S19E07 - Episódio 7|http://redeflixapi.store/serie/4057/19/7
+#EPISODIO: S19E08 - Episódio 8|http://redeflixapi.store/serie/4057/19/8
+#EPISODIO: S19E09 - Episódio 9|http://redeflixapi.store/serie/4057/19/9
+#EPISODIO: S19E10 - Episódio 10|http://redeflixapi.store/serie/4057/19/10
+# ==========================================
+# 📺 True Blood (2008) - 7 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/6jP8JKeHWldyfS5Qm6TXjK829mq.jpg", [SERIE] True Blood (2008)
+#SINOPSE: Cientistas japoneses criam um tipo de sangue sintético, permitindo aos vampiros a vida na sociedade, sem que isso represente uma ameaça aos cidadãos comuns.
+#EPISODIO: S01E01 - Estranho amor|http://redeflixapi.store/serie/10545/1/1
+#EPISODIO: S01E02 - O primeiro pedaço|http://redeflixapi.store/serie/10545/1/2
+#EPISODIO: S01E03 - Minha|http://redeflixapi.store/serie/10545/1/3
+#EPISODIO: S01E04 - A fuga da casa dos dragões|http://redeflixapi.store/serie/10545/1/4
+#EPISODIO: S01E05 - Faíscas|http://redeflixapi.store/serie/10545/1/5
+#EPISODIO: S01E06 - Terra fria|http://redeflixapi.store/serie/10545/1/6
+#EPISODIO: S01E07 - A casa de amor em chamas|http://redeflixapi.store/serie/10545/1/7
+#EPISODIO: S01E08 - O quarto homem no fogo|http://redeflixapi.store/serie/10545/1/8
+#EPISODIO: S01E09 - Plaisir D'Amour|http://redeflixapi.store/serie/10545/1/9
+#EPISODIO: S01E10 - Eu não quero saber|http://redeflixapi.store/serie/10545/1/10
+#EPISODIO: S01E11 - Amar é enterrar|http://redeflixapi.store/serie/10545/1/11
+#EPISODIO: S01E12 - Assim você vai me matar|http://redeflixapi.store/serie/10545/1/12
+#EPISODIO: S02E01 - Nada além de sangue|http://redeflixapi.store/serie/10545/2/1
+#EPISODIO: S02E02 - Não deixe a festa acabar|http://redeflixapi.store/serie/10545/2/2
+#EPISODIO: S02E03 - Arranhões|http://redeflixapi.store/serie/10545/2/3
+#EPISODIO: S02E04 - Agite e dedilhe|http://redeflixapi.store/serie/10545/2/4
+#EPISODIO: S02E05 - Nunca me deixe ir|http://redeflixapi.store/serie/10545/2/5
+#EPISODIO: S02E06 - A insensível Hannah|http://redeflixapi.store/serie/10545/2/6
+#EPISODIO: S02E07 - Liberta-me|http://redeflixapi.store/serie/10545/2/7
+#EPISODIO: S02E08 - Bomba-relógio|http://redeflixapi.store/serie/10545/2/8
+#EPISODIO: S02E09 - Eu me elevarei|http://redeflixapi.store/serie/10545/2/9
+#EPISODIO: S02E10 - Um novo mundo na minha visão|http://redeflixapi.store/serie/10545/2/10
+#EPISODIO: S02E11 - Frenesi|http://redeflixapi.store/serie/10545/2/11
+#EPISODIO: S02E12 - Além daqui não existe nada|http://redeflixapi.store/serie/10545/2/12
+#EPISODIO: S03E01 - Sangue ruim|http://redeflixapi.store/serie/10545/3/1
+#EPISODIO: S03E02 - Lindamente quebrada|http://redeflixapi.store/serie/10545/3/2
+#EPISODIO: S03E03 - Também me machuca|http://redeflixapi.store/serie/10545/3/3
+#EPISODIO: S03E04 - 9 crimes|http://redeflixapi.store/serie/10545/3/4
+#EPISODIO: S03E05 - Encrenca|http://redeflixapi.store/serie/10545/3/5
+#EPISODIO: S03E06 - Eu tenho o direito de cantar blues|http://redeflixapi.store/serie/10545/3/6
+#EPISODIO: S03E07 - Caindo no chão|http://redeflixapi.store/serie/10545/3/7
+#EPISODIO: S03E08 - Noite no sol|http://redeflixapi.store/serie/10545/3/8
+#EPISODIO: S03E09 - Tudo está quebrado|http://redeflixapi.store/serie/10545/3/9
+#EPISODIO: S03E10 - Algo não cheira bem|http://redeflixapi.store/serie/10545/3/10
+#EPISODIO: S03E11 - Sangue fresco|http://redeflixapi.store/serie/10545/3/11
+#EPISODIO: S03E12 - O mal agindo|http://redeflixapi.store/serie/10545/3/12
+#EPISODIO: S04E01 - Ela não está lá|http://redeflixapi.store/serie/10545/4/1
+#EPISODIO: S04E02 - Você cheira a jantar|http://redeflixapi.store/serie/10545/4/2
+#EPISODIO: S04E03 - Se você me ama, por que estou morrendo?|http://redeflixapi.store/serie/10545/4/3
+#EPISODIO: S04E04 - Vida em chamas|http://redeflixapi.store/serie/10545/4/4
+#EPISODIO: S04E05 - Eu e o diabo|http://redeflixapi.store/serie/10545/4/5
+#EPISODIO: S04E06 - Eu queria ser a lua|http://redeflixapi.store/serie/10545/4/6
+#EPISODIO: S04E07 - Luz cinzenta e fria da madrugada|http://redeflixapi.store/serie/10545/4/7
+#EPISODIO: S04E08 - Enfeitiçada|http://redeflixapi.store/serie/10545/4/8
+#EPISODIO: S04E09 - Vamos sair daqui|http://redeflixapi.store/serie/10545/4/9
+#EPISODIO: S04E10 - Botando fogo na casa|http://redeflixapi.store/serie/10545/4/10
+#EPISODIO: S04E11 - Alma de fogo|http://redeflixapi.store/serie/10545/4/11
+#EPISODIO: S04E12 - E quando eu morrer|http://redeflixapi.store/serie/10545/4/12
+#EPISODIO: S05E01 - Transformação|http://redeflixapi.store/serie/10545/5/1
+#EPISODIO: S05E02 - A Autoridade sempre vence|http://redeflixapi.store/serie/10545/5/2
+#EPISODIO: S05E03 - Você me fez assim|http://redeflixapi.store/serie/10545/5/3
+#EPISODIO: S05E04 - Vamos nos encontrar de novo|http://redeflixapi.store/serie/10545/5/4
+#EPISODIO: S05E05 - Marchem todos|http://redeflixapi.store/serie/10545/5/5
+#EPISODIO: S05E06 - Sem esperança|http://redeflixapi.store/serie/10545/5/6
+#EPISODIO: S05E07 - No começo|http://redeflixapi.store/serie/10545/5/7
+#EPISODIO: S05E08 - Alguém que eu conhecia|http://redeflixapi.store/serie/10545/5/8
+#EPISODIO: S05E09 - Todos querem governar o mundo|http://redeflixapi.store/serie/10545/5/9
+#EPISODIO: S05E10 - Terror|http://redeflixapi.store/serie/10545/5/10
+#EPISODIO: S05E11 - Pôr do sol|http://redeflixapi.store/serie/10545/5/11
+#EPISODIO: S05E12 - Salve-se|http://redeflixapi.store/serie/10545/5/12
+#EPISODIO: S06E01 - Quem é você?|http://redeflixapi.store/serie/10545/6/1
+#EPISODIO: S06E02 - O sol|http://redeflixapi.store/serie/10545/6/2
+#EPISODIO: S06E03 - Você não é bom|http://redeflixapi.store/serie/10545/6/3
+#EPISODIO: S06E04 - Finalmente|http://redeflixapi.store/serie/10545/6/4
+#EPISODIO: S06E05 - Sangue para aliviar a dor|http://redeflixapi.store/serie/10545/6/5
+#EPISODIO: S06E06 - Você não me sente?|http://redeflixapi.store/serie/10545/6/6
+#EPISODIO: S06E07 - À noite|http://redeflixapi.store/serie/10545/6/7
+#EPISODIO: S06E08 - Tudo tem um preço|http://redeflixapi.store/serie/10545/6/8
+#EPISODIO: S06E09 - A vida é importante|http://redeflixapi.store/serie/10545/6/9
+#EPISODIO: S06E10 - Radioatividade|http://redeflixapi.store/serie/10545/6/10
+#EPISODIO: S07E01 - Jesus estará aqui|http://redeflixapi.store/serie/10545/7/1
+#EPISODIO: S07E02 - Eu encontrei você|http://redeflixapi.store/serie/10545/7/2
+#EPISODIO: S07E03 - Fogo no buraco|http://redeflixapi.store/serie/10545/7/3
+#EPISODIO: S07E04 - A morte não é o fim|http://redeflixapi.store/serie/10545/7/4
+#EPISODIO: S07E05 - Causa perdida|http://redeflixapi.store/serie/10545/7/5
+#EPISODIO: S07E06 - Carma|http://redeflixapi.store/serie/10545/7/6
+#EPISODIO: S07E07 - Pode ser a última vez|http://redeflixapi.store/serie/10545/7/7
+#EPISODIO: S07E08 - Quase em casa|http://redeflixapi.store/serie/10545/7/8
+#EPISODIO: S07E09 - Amar é para morrer|http://redeflixapi.store/serie/10545/7/9
+#EPISODIO: S07E10 - Obrigado|http://redeflixapi.store/serie/10545/7/10
+# ==========================================
+# 📺 O Filho Canhoto (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/tuGnfgxzip1ZMHcqJy4LWjv5RFM.jpg", [SERIE] O Filho Canhoto (2023)
+#SINOPSE: Lola, uma mãe de classe alta, vê como seu filho mais novo passa a fazer parte de um grupo radical. Na tentativa de ter o filho de volta, Lola vai se relacionar com Maru, que vive uma situação semelhante.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/222193/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/222193/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/222193/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/222193/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/222193/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/222193/1/6
+# ==========================================
+# 📺 O Exorcista (2016) - 2 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/ArSVoiEq2ljNIplabxRgJtamhnB.jpg", [SERIE] O Exorcista (2016)
+#SINOPSE: Tomás Ortega é um padre progressista, ambicioso e compreensivo, que coordena uma pequena paróquia localizada no subúrbio de Chicago.
+#EPISODIO: S01E01 - Capítulo 1 - Chegue A Ti O Meu Clamor|http://redeflixapi.store/serie/67135/1/1
+#EPISODIO: S01E02 - Capítulo 2 - Lupus In Fabula|http://redeflixapi.store/serie/67135/1/2
+#EPISODIO: S01E03 - Capítulo 3 - Deixe-os Entrar|http://redeflixapi.store/serie/67135/1/3
+#EPISODIO: S01E04 - Capítulo 4 - Banquete Itinerante|http://redeflixapi.store/serie/67135/1/4
+#EPISODIO: S01E05 - Capítulo 5 - Por Minha Tão Grande Culpa|http://redeflixapi.store/serie/67135/1/5
+#EPISODIO: S01E06 - Capítulo 6 - Estrela da Manhã|http://redeflixapi.store/serie/67135/1/6
+#EPISODIO: S01E07 - Capítulo 7 - Pai da Mentira|http://redeflixapi.store/serie/67135/1/7
+#EPISODIO: S01E08 - Capítulo 8 - Os Sofredores|http://redeflixapi.store/serie/67135/1/8
+#EPISODIO: S01E09 - Capítulo 9 - 162|http://redeflixapi.store/serie/67135/1/9
+#EPISODIO: S01E10 - Capítulo 10 - Três Quartos|http://redeflixapi.store/serie/67135/1/10
+#EPISODIO: S02E01 - Janus|http://redeflixapi.store/serie/67135/2/1
+#EPISODIO: S02E02 - Safe as Houses|http://redeflixapi.store/serie/67135/2/2
+#EPISODIO: S02E03 - Unclean|http://redeflixapi.store/serie/67135/2/3
+#EPISODIO: S02E04 - One for Sorrow|http://redeflixapi.store/serie/67135/2/4
+#EPISODIO: S02E05 - There but for the Grace of God, Go I|http://redeflixapi.store/serie/67135/2/5
+#EPISODIO: S02E06 - Darling Nikki|http://redeflixapi.store/serie/67135/2/6
+#EPISODIO: S02E07 - Help Me|http://redeflixapi.store/serie/67135/2/7
+#EPISODIO: S02E08 - A Heaven of Hell|http://redeflixapi.store/serie/67135/2/8
+#EPISODIO: S02E09 - Ritual & Repetition|http://redeflixapi.store/serie/67135/2/9
+#EPISODIO: S02E10 - Unworthy|http://redeflixapi.store/serie/67135/2/10
+# ==========================================
+# 📺 Os Thundermans (2013) - 4 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg", [SERIE] Os Thundermans (2013)
+#SINOPSE: A série fala sobre uma família suburbana com superpoderes. Os gêmeos especificamente de 14 anos de idade Phoebe e Max uma super-heroína e um supervilão.
+#EPISODIO: S01E01 - Dando Uma de Babá|http://redeflixapi.store/serie/58981/1/1
+#EPISODIO: S01E02 - Phoebe Vs. Max|http://redeflixapi.store/serie/58981/1/2
+#EPISODIO: S01E03 - Jantar em Família|http://redeflixapi.store/serie/58981/1/3
+#EPISODIO: S01E04 - Gincana de Matemática|http://redeflixapi.store/serie/58981/1/4
+#EPISODIO: S01E05 - Dia de Matar Aula|http://redeflixapi.store/serie/58981/1/5
+#EPISODIO: S01E06 - Este é um Trabalho para...|http://redeflixapi.store/serie/58981/1/6
+#EPISODIO: S01E07 - Hóspede no Fim de Semana|http://redeflixapi.store/serie/58981/1/7
+#EPISODIO: S01E08 - Presidente da Classe|http://redeflixapi.store/serie/58981/1/8
+#EPISODIO: S01E09 - Feira de Ciências|http://redeflixapi.store/serie/58981/1/9
+#EPISODIO: S01E10 - Crime após Crime|http://redeflixapi.store/serie/58981/1/10
+#EPISODIO: S01E11 - A Passagem do Cometa|http://redeflixapi.store/serie/58981/1/11
+#EPISODIO: S01E12 - Penetras no Restaurante|http://redeflixapi.store/serie/58981/1/12
+#EPISODIO: S01E13 - Thundersentido|http://redeflixapi.store/serie/58981/1/13
+#EPISODIO: S01E14 - O Clone da Phoebe|http://redeflixapi.store/serie/58981/1/14
+#EPISODIO: S01E15 - Aniversário Gelado|http://redeflixapi.store/serie/58981/1/15
+#EPISODIO: S01E16 - A Festa do Pijama|http://redeflixapi.store/serie/58981/1/16
+#EPISODIO: S01E17 - Lindinhos do Coral|http://redeflixapi.store/serie/58981/1/17
+#EPISODIO: S01E18 - Chamando Dr. Thunderman|http://redeflixapi.store/serie/58981/1/18
+#EPISODIO: S01E19 - Férias em Família|http://redeflixapi.store/serie/58981/1/19
+#EPISODIO: S01E20 - Professor Substituto|http://redeflixapi.store/serie/58981/1/20
+#EPISODIO: S02E01 - Episódio 1|http://redeflixapi.store/serie/58981/2/1
+#EPISODIO: S02E02 - Episódio 2|http://redeflixapi.store/serie/58981/2/2
+#EPISODIO: S02E03 - Episódio 3|http://redeflixapi.store/serie/58981/2/3
+#EPISODIO: S02E04 - Episódio 4|http://redeflixapi.store/serie/58981/2/4
+#EPISODIO: S02E05 - Episódio 5|http://redeflixapi.store/serie/58981/2/5
+#EPISODIO: S02E06 - Episódio 6|http://redeflixapi.store/serie/58981/2/6
+#EPISODIO: S02E07 - Episódio 7|http://redeflixapi.store/serie/58981/2/7
+#EPISODIO: S02E08 - Episódio 8|http://redeflixapi.store/serie/58981/2/8
+#EPISODIO: S02E09 - Episódio 9|http://redeflixapi.store/serie/58981/2/9
+#EPISODIO: S02E10 - Episódio 10|http://redeflixapi.store/serie/58981/2/10
+#EPISODIO: S02E11 - Episódio 11|http://redeflixapi.store/serie/58981/2/11
+#EPISODIO: S02E12 - Episódio 12|http://redeflixapi.store/serie/58981/2/12
+#EPISODIO: S02E13 - Episódio 13|http://redeflixapi.store/serie/58981/2/13
+#EPISODIO: S02E14 - Episódio 14|http://redeflixapi.store/serie/58981/2/14
+#EPISODIO: S02E15 - Episódio 15|http://redeflixapi.store/serie/58981/2/15
+#EPISODIO: S02E16 - Episódio 16|http://redeflixapi.store/serie/58981/2/16
+#EPISODIO: S02E17 - Episódio 17|http://redeflixapi.store/serie/58981/2/17
+#EPISODIO: S02E18 - Episódio 18|http://redeflixapi.store/serie/58981/2/18
+#EPISODIO: S02E19 - Episódio 19|http://redeflixapi.store/serie/58981/2/19
+#EPISODIO: S02E20 - Episódio 20|http://redeflixapi.store/serie/58981/2/20
+#EPISODIO: S02E21 - Episódio 21|http://redeflixapi.store/serie/58981/2/21
+#EPISODIO: S02E22 - Episódio 22|http://redeflixapi.store/serie/58981/2/22
+#EPISODIO: S02E23 - Episódio 23|http://redeflixapi.store/serie/58981/2/23
+#EPISODIO: S02E24 - Episódio 24|http://redeflixapi.store/serie/58981/2/24
+#EPISODIO: S03E01 - Episódio 1|http://redeflixapi.store/serie/58981/3/1
+#EPISODIO: S03E02 - Episódio 2|http://redeflixapi.store/serie/58981/3/2
+#EPISODIO: S03E03 - Episódio 3|http://redeflixapi.store/serie/58981/3/3
+#EPISODIO: S03E04 - Episódio 4|http://redeflixapi.store/serie/58981/3/4
+#EPISODIO: S03E05 - Episódio 5|http://redeflixapi.store/serie/58981/3/5
+#EPISODIO: S03E06 - Episódio 6|http://redeflixapi.store/serie/58981/3/6
+#EPISODIO: S03E07 - Episódio 7|http://redeflixapi.store/serie/58981/3/7
+#EPISODIO: S03E08 - Episódio 8|http://redeflixapi.store/serie/58981/3/8
+#EPISODIO: S03E09 - Episódio 9|http://redeflixapi.store/serie/58981/3/9
+#EPISODIO: S03E10 - Episódio 10|http://redeflixapi.store/serie/58981/3/10
+#EPISODIO: S03E11 - Episódio 11|http://redeflixapi.store/serie/58981/3/11
+#EPISODIO: S03E12 - Episódio 12|http://redeflixapi.store/serie/58981/3/12
+#EPISODIO: S03E13 - Episódio 13|http://redeflixapi.store/serie/58981/3/13
+#EPISODIO: S03E14 - Episódio 14|http://redeflixapi.store/serie/58981/3/14
+#EPISODIO: S03E15 - Episódio 15|http://redeflixapi.store/serie/58981/3/15
+#EPISODIO: S03E16 - Episódio 16|http://redeflixapi.store/serie/58981/3/16
+#EPISODIO: S03E17 - Episódio 17|http://redeflixapi.store/serie/58981/3/17
+#EPISODIO: S03E18 - Episódio 18|http://redeflixapi.store/serie/58981/3/18
+#EPISODIO: S03E19 - Episódio 19|http://redeflixapi.store/serie/58981/3/19
+#EPISODIO: S03E20 - Episódio 20|http://redeflixapi.store/serie/58981/3/20
+#EPISODIO: S03E21 - Episódio 21|http://redeflixapi.store/serie/58981/3/21
+#EPISODIO: S03E22 - Episódio 22|http://redeflixapi.store/serie/58981/3/22
+#EPISODIO: S03E23 - Episódio 23|http://redeflixapi.store/serie/58981/3/23
+#EPISODIO: S03E24 - Episódio 24|http://redeflixapi.store/serie/58981/3/24
+#EPISODIO: S03E25 - Episódio 25|http://redeflixapi.store/serie/58981/3/25
+#EPISODIO: S04E01 - Episódio 1|http://redeflixapi.store/serie/58981/4/1
+#EPISODIO: S04E02 - Episódio 2|http://redeflixapi.store/serie/58981/4/2
+#EPISODIO: S04E03 - Episódio 3|http://redeflixapi.store/serie/58981/4/3
+#EPISODIO: S04E04 - Episódio 4|http://redeflixapi.store/serie/58981/4/4
+#EPISODIO: S04E05 - Episódio 5|http://redeflixapi.store/serie/58981/4/5
+#EPISODIO: S04E06 - Episódio 6|http://redeflixapi.store/serie/58981/4/6
+#EPISODIO: S04E07 - Episódio 7|http://redeflixapi.store/serie/58981/4/7
+#EPISODIO: S04E08 - Episódio 8|http://redeflixapi.store/serie/58981/4/8
+#EPISODIO: S04E09 - Episódio 9|http://redeflixapi.store/serie/58981/4/9
+#EPISODIO: S04E10 - Episódio 10|http://redeflixapi.store/serie/58981/4/10
+#EPISODIO: S04E11 - Episódio 11|http://redeflixapi.store/serie/58981/4/11
+#EPISODIO: S04E12 - Episódio 12|http://redeflixapi.store/serie/58981/4/12
+#EPISODIO: S04E13 - Episódio 13|http://redeflixapi.store/serie/58981/4/13
+#EPISODIO: S04E14 - Episódio 14|http://redeflixapi.store/serie/58981/4/14
+#EPISODIO: S04E15 - Episódio 15|http://redeflixapi.store/serie/58981/4/15
+#EPISODIO: S04E16 - Episódio 16|http://redeflixapi.store/serie/58981/4/16
+#EPISODIO: S04E17 - Episódio 17|http://redeflixapi.store/serie/58981/4/17
+#EPISODIO: S04E18 - Episódio 18|http://redeflixapi.store/serie/58981/4/18
+#EPISODIO: S04E19 - Episódio 19|http://redeflixapi.store/serie/58981/4/19
+#EPISODIO: S04E20 - Episódio 20|http://redeflixapi.store/serie/58981/4/20
+#EPISODIO: S04E21 - Episódio 21|http://redeflixapi.store/serie/58981/4/21
+#EPISODIO: S04E22 - Episódio 22|http://redeflixapi.store/serie/58981/4/22
+#EPISODIO: S04E23 - Episódio 23|http://redeflixapi.store/serie/58981/4/23
+#EPISODIO: S04E24 - Episódio 24|http://redeflixapi.store/serie/58981/4/24
+#EPISODIO: S04E25 - Episódio 25|http://redeflixapi.store/serie/58981/4/25
+#EPISODIO: S04E26 - Episódio 26|http://redeflixapi.store/serie/58981/4/26
+#EPISODIO: S04E27 - Episódio 27|http://redeflixapi.store/serie/58981/4/27
+#EPISODIO: S04E28 - Episódio 28|http://redeflixapi.store/serie/58981/4/28
+#EPISODIO: S04E29 - Episódio 29|http://redeflixapi.store/serie/58981/4/29
+# ==========================================
+# 📺 Os Feiticeiros de Waverly Place (2007) - 4 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/ifRCJhpboIIVN0CJxLNmj3jSp42.jpg", [SERIE] Os Feiticeiros de Waverly Place (2007)
+#SINOPSE: Alex, Justin e Max são irmãos que precisam aperfeiçoar os poderes mágicos que herdaram ou irão perdê-los para sempre. Os três feiticeiros se envolvem nas mais loucas situações enfrentando os típicos desafios de adolescentes, como escola, amigos, família e a magia.
+#EPISODIO: S01E01 - Liquidação Maluca dos Dez Minutos|http://redeflixapi.store/serie/3498/1/1
+#EPISODIO: S01E02 - Primeiro Beijo|http://redeflixapi.store/serie/3498/1/2
+#EPISODIO: S01E03 - Eu Quase Me Afoguei em uma Fonte de Chocolate|http://redeflixapi.store/serie/3498/1/3
+#EPISODIO: S01E04 - Nova Funcionária|http://redeflixapi.store/serie/3498/1/4
+#EPISODIO: S01E05 - Noite Desencantada|http://redeflixapi.store/serie/3498/1/5
+#EPISODIO: S01E06 - Você Não Pode Dirigir o Tapete|http://redeflixapi.store/serie/3498/1/6
+#EPISODIO: S01E07 - A Escolha de Alex|http://redeflixapi.store/serie/3498/1/7
+#EPISODIO: S01E08 - Pare Seu Dragão|http://redeflixapi.store/serie/3498/1/8
+#EPISODIO: S01E09 - Filmes|http://redeflixapi.store/serie/3498/1/9
+#EPISODIO: S01E10 - Me Esprema e Nós Dois nos Daremos Mal|http://redeflixapi.store/serie/3498/1/10
+#EPISODIO: S01E11 - Poção da Emoção|http://redeflixapi.store/serie/3498/1/11
+#EPISODIO: S01E12 - A Irmãzinha do Justin|http://redeflixapi.store/serie/3498/1/12
+#EPISODIO: S01E13 - Escola de Magia - Parte 1|http://redeflixapi.store/serie/3498/1/13
+#EPISODIO: S01E14 - Escola de Magia - Parte 2|http://redeflixapi.store/serie/3498/1/14
+#EPISODIO: S01E15 - O Sobrenatural|http://redeflixapi.store/serie/3498/1/15
+#EPISODIO: S01E16 - Alex Dividida|http://redeflixapi.store/serie/3498/1/16
+#EPISODIO: S01E17 - Boletim|http://redeflixapi.store/serie/3498/1/17
+#EPISODIO: S01E18 - Checagem de Mérito|http://redeflixapi.store/serie/3498/1/18
+#EPISODIO: S01E19 - Amor de Primavera da Alex|http://redeflixapi.store/serie/3498/1/19
+#EPISODIO: S01E20 - Festa de 15 Anos|http://redeflixapi.store/serie/3498/1/20
+#EPISODIO: S01E21 - Peça do Museu de Arte|http://redeflixapi.store/serie/3498/1/21
+#EPISODIO: S02E01 - Calça Esperta|http://redeflixapi.store/serie/3498/2/1
+#EPISODIO: S02E02 - Cuidado com os Lobos|http://redeflixapi.store/serie/3498/2/2
+#EPISODIO: S02E03 - História em Quadrinhos|http://redeflixapi.store/serie/3498/2/3
+#EPISODIO: S02E04 - Corrida|http://redeflixapi.store/serie/3498/2/4
+#EPISODIO: S02E05 - O Irmão da Alex, Maxman|http://redeflixapi.store/serie/3498/2/5
+#EPISODIO: S02E06 - Salvando a Feitiço-Tec - Parte 1|http://redeflixapi.store/serie/3498/2/6
+#EPISODIO: S02E07 - Salvando a Feitiço-Tec - Parte 2|http://redeflixapi.store/serie/3498/2/7
+#EPISODIO: S02E08 - Harper Sabe|http://redeflixapi.store/serie/3498/2/8
+#EPISODIO: S02E09 - A Dança do Táxi|http://redeflixapi.store/serie/3498/2/9
+#EPISODIO: S02E10 - O Cupido|http://redeflixapi.store/serie/3498/2/10
+#EPISODIO: S02E11 - Fazendo Acontecer|http://redeflixapi.store/serie/3498/2/11
+#EPISODIO: S02E12 - Conto de Fadas|http://redeflixapi.store/serie/3498/2/12
+#EPISODIO: S02E13 - Semana da Moda|http://redeflixapi.store/serie/3498/2/13
+#EPISODIO: S02E14 - Mão Ajudante|http://redeflixapi.store/serie/3498/2/14
+#EPISODIO: S02E15 - Professora de Artes|http://redeflixapi.store/serie/3498/2/15
+#EPISODIO: S02E16 - Harper do Futuro|http://redeflixapi.store/serie/3498/2/16
+#EPISODIO: S02E17 - Alex, a Boazinha|http://redeflixapi.store/serie/3498/2/17
+#EPISODIO: S02E18 - Aldo Não é Bragaramba|http://redeflixapi.store/serie/3498/2/18
+#EPISODIO: S02E19 - Não Chova em Cima do Justin|http://redeflixapi.store/serie/3498/2/19
+#EPISODIO: S02E20 - Noite de Jogo em Família|http://redeflixapi.store/serie/3498/2/20
+#EPISODIO: S02E21 - A Nova Namorada de Justin|http://redeflixapi.store/serie/3498/2/21
+#EPISODIO: S02E22 - Minha Tutora, Tutora|http://redeflixapi.store/serie/3498/2/22
+#EPISODIO: S02E23 - Arte de Comitê|http://redeflixapi.store/serie/3498/2/23
+#EPISODIO: S02E24 - Feiticeiro por um Dia|http://redeflixapi.store/serie/3498/2/24
+#EPISODIO: S02E25 - Lançados para Longe (Para Outra Série)|http://redeflixapi.store/serie/3498/2/25
+#EPISODIO: S02E26 - Feiticeiros Contra Vampiros em Waverly Place|http://redeflixapi.store/serie/3498/2/26
+#EPISODIO: S02E27 - Feiticeiros Contra Vampiros: Mordida Saborosa|http://redeflixapi.store/serie/3498/2/27
+#EPISODIO: S02E28 - Feiticeiros Contra Vampiros: Encontro dos Sonhos|http://redeflixapi.store/serie/3498/2/28
+#EPISODIO: S02E29 - Feiticeiros e Vampiros Contra Zumbis|http://redeflixapi.store/serie/3498/2/29
+#EPISODIO: S02E30 - Re-teste|http://redeflixapi.store/serie/3498/2/30
+#EPISODIO: S03E01 - Francristina|http://redeflixapi.store/serie/3498/3/1
+#EPISODIO: S03E02 - Halloween|http://redeflixapi.store/serie/3498/3/2
+#EPISODIO: S03E03 - Caçador de Monstros|http://redeflixapi.store/serie/3498/3/3
+#EPISODIO: S03E04 - Três Monstros|http://redeflixapi.store/serie/3498/3/4
+#EPISODIO: S03E05 - Uma Noite no Lazerama|http://redeflixapi.store/serie/3498/3/5
+#EPISODIO: S03E06 - Casa de Boneca|http://redeflixapi.store/serie/3498/3/6
+#EPISODIO: S03E07 - Harper Maratonista|http://redeflixapi.store/serie/3498/3/7
+#EPISODIO: S03E08 - Alex Encanta um Menino|http://redeflixapi.store/serie/3498/3/8
+#EPISODIO: S03E09 - Feiticeiros vs. Lobisomens|http://redeflixapi.store/serie/3498/3/9
+#EPISODIO: S03E10 - Alex Positiva|http://redeflixapi.store/serie/3498/3/10
+#EPISODIO: S03E11 - Eleição da Ocorrência|http://redeflixapi.store/serie/3498/3/11
+#EPISODIO: S03E12 - Parecendo Shakira|http://redeflixapi.store/serie/3498/3/12
+#EPISODIO: S03E13 - Coma na Batida|http://redeflixapi.store/serie/3498/3/13
+#EPISODIO: S03E14 - Segurando Vela|http://redeflixapi.store/serie/3498/3/14
+#EPISODIO: S03E15 - O Bom, o Mal e Alex|http://redeflixapi.store/serie/3498/3/15
+#EPISODIO: S03E16 - Show Ocidental|http://redeflixapi.store/serie/3498/3/16
+#EPISODIO: S03E17 - O Logotipo de Alex|http://redeflixapi.store/serie/3498/3/17
+#EPISODIO: S03E18 - Papai Está Incomodando|http://redeflixapi.store/serie/3498/3/18
+#EPISODIO: S03E19 - A Namorada Secreta de Max|http://redeflixapi.store/serie/3498/3/19
+#EPISODIO: S03E20 - Alex Russo, Casamenteira?|http://redeflixapi.store/serie/3498/3/20
+#EPISODIO: S03E21 - Justin Deliquente|http://redeflixapi.store/serie/3498/3/21
+#EPISODIO: S03E22 - Capitão Jim Bob Sherwood|http://redeflixapi.store/serie/3498/3/22
+#EPISODIO: S03E23 - Russo vs. Finkle|http://redeflixapi.store/serie/3498/3/23
+#EPISODIO: S03E24 - Tudo Sobre Seu-Niverso|http://redeflixapi.store/serie/3498/3/24
+#EPISODIO: S03E25 - Tio Ernesto|http://redeflixapi.store/serie/3498/3/25
+#EPISODIO: S03E26 - Em Movimento|http://redeflixapi.store/serie/3498/3/26
+#EPISODIO: S03E27 - Feiticeiros Desencandeados|http://redeflixapi.store/serie/3498/3/27
+#EPISODIO: S03E28 - Feiticeiros Expostos|http://redeflixapi.store/serie/3498/3/28
+#EPISODIO: S04E01 - Alex Conta ao Mundo|http://redeflixapi.store/serie/3498/4/1
+#EPISODIO: S04E02 - Alex Desiste|http://redeflixapi.store/serie/3498/4/2
+#EPISODIO: S04E03 - Encantado Sortudo|http://redeflixapi.store/serie/3498/4/3
+#EPISODIO: S04E04 - Viagem ao Centro de Mason|http://redeflixapi.store/serie/3498/4/4
+#EPISODIO: S04E05 - Três Maxes e uma Pequena Dama|http://redeflixapi.store/serie/3498/4/5
+#EPISODIO: S04E06 - As Filhinhas do Papai|http://redeflixapi.store/serie/3498/4/6
+#EPISODIO: S04E07 - Tudo é Rosie para Justin|http://redeflixapi.store/serie/3498/4/7
+#EPISODIO: S04E08 - Dançando com Anjos|http://redeflixapi.store/serie/3498/4/8
+#EPISODIO: S04E09 - Feiticeiros vs. Anjos|http://redeflixapi.store/serie/3498/4/9
+#EPISODIO: S04E10 - De Volta ao Max|http://redeflixapi.store/serie/3498/4/10
+#EPISODIO: S04E11 - Zeke Descobre|http://redeflixapi.store/serie/3498/4/11
+#EPISODIO: S04E12 - Mágica Desmascarada|http://redeflixapi.store/serie/3498/4/12
+#EPISODIO: S04E13 - Conheça os Lobisomens|http://redeflixapi.store/serie/3498/4/13
+#EPISODIO: S04E14 - Domador de Feras|http://redeflixapi.store/serie/3498/4/14
+#EPISODIO: S04E15 - Feiticeiro do Ano|http://redeflixapi.store/serie/3498/4/15
+#EPISODIO: S04E16 - Azar na Praia|http://redeflixapi.store/serie/3498/4/16
+#EPISODIO: S04E17 - Feiticeiros vs. Asteroide|http://redeflixapi.store/serie/3498/4/17
+#EPISODIO: S04E18 - Justin Está de Volta|http://redeflixapi.store/serie/3498/4/18
+#EPISODIO: S04E19 - Alex, a Mestre das Marionetes|http://redeflixapi.store/serie/3498/4/19
+#EPISODIO: S04E20 - Meus Dois Harpistas|http://redeflixapi.store/serie/3498/4/20
+#EPISODIO: S04E21 - Feiticeiros do Apartamento 13B|http://redeflixapi.store/serie/3498/4/21
+#EPISODIO: S04E22 - Companheiro de Quarto Fantasma|http://redeflixapi.store/serie/3498/4/22
+#EPISODIO: S04E23 - Conviva Bem, Pequeno Zumbi|http://redeflixapi.store/serie/3498/4/23
+#EPISODIO: S04E24 - Feiticeiros vs. Tudo|http://redeflixapi.store/serie/3498/4/24
+#EPISODIO: S04E25 - Rock 24 Horas por Dia|http://redeflixapi.store/serie/3498/4/25
+#EPISODIO: S04E26 - Harperella|http://redeflixapi.store/serie/3498/4/26
+#EPISODIO: S04E27 - Quem Vai Ser o Feiticeiro da Família|http://redeflixapi.store/serie/3498/4/27
+# ==========================================
+# 📺 Invasão Secreta (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/2N892H3CirkrFC4vulZfMVSUbAZ.jpg", [SERIE] Invasão Secreta (2023)
+#SINOPSE: Nick Fury descobre que uma facção de metamorfos Skrulls pretende invadir a Terra. Fury se junta a aliados incluindo Everett Ross, Maria Hill e o Skrull Talos, que estava vivendo na Terra.
+#EPISODIO: S01E01 - Ressurreição|http://redeflixapi.store/serie/114472/1/1
+#EPISODIO: S01E02 - Promessas|http://redeflixapi.store/serie/114472/1/2
+#EPISODIO: S01E03 - Traído|http://redeflixapi.store/serie/114472/1/3
+#EPISODIO: S01E04 - Amado|http://redeflixapi.store/serie/114472/1/4
+#EPISODIO: S01E05 - Colheita|http://redeflixapi.store/serie/114472/1/5
+#EPISODIO: S01E06 - Lar|http://redeflixapi.store/serie/114472/1/6
+# ==========================================
+# 📺 Rap na Rinha (2021) - 2 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/iGED1F5qTbd9gt7z1kvs8caC8Pd.jpg", [SERIE] Rap na Rinha (2021)
+#SINOPSE: León e Rafaela querem fazer parte do competitivo mundo do freestyle. Juntos, eles vão superar não apenas seus concorrentes, mas também seus próprios obstáculos. Andy os ajudará no percurso com as redes sociais.
+#EPISODIO: S01E01 - O Retorno|http://redeflixapi.store/serie/133423/1/1
+#EPISODIO: S01E02 - Como Uma Mosca na Teia de Aranha|http://redeflixapi.store/serie/133423/1/2
+#EPISODIO: S01E03 - Treinamento|http://redeflixapi.store/serie/133423/1/3
+#EPISODIO: S01E04 - Novato|http://redeflixapi.store/serie/133423/1/4
+#EPISODIO: S01E05 - Fluxo|http://redeflixapi.store/serie/133423/1/5
+#EPISODIO: S01E06 - O Último Homem|http://redeflixapi.store/serie/133423/1/6
+#EPISODIO: S01E07 - Épica|http://redeflixapi.store/serie/133423/1/7
+#EPISODIO: S01E08 - Raiva|http://redeflixapi.store/serie/133423/1/8
+#EPISODIO: S01E09 - Orgulho|http://redeflixapi.store/serie/133423/1/9
+#EPISODIO: S01E10 - Surpresa|http://redeflixapi.store/serie/133423/1/10
+#EPISODIO: S02E01 - Episódio 1|http://redeflixapi.store/serie/133423/2/1
+#EPISODIO: S02E02 - Episódio 2|http://redeflixapi.store/serie/133423/2/2
+#EPISODIO: S02E03 - Episódio 3|http://redeflixapi.store/serie/133423/2/3
+#EPISODIO: S02E04 - Episódio 4|http://redeflixapi.store/serie/133423/2/4
+#EPISODIO: S02E05 - Episódio 5|http://redeflixapi.store/serie/133423/2/5
+#EPISODIO: S02E06 - Episódio 6|http://redeflixapi.store/serie/133423/2/6
+#EPISODIO: S02E07 - Episódio 7|http://redeflixapi.store/serie/133423/2/7
+#EPISODIO: S02E08 - Episódio 8|http://redeflixapi.store/serie/133423/2/8
+#EPISODIO: S02E09 - Episódio 9|http://redeflixapi.store/serie/133423/2/9
+# ==========================================
+# 📺 Promessa do Paraíso (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/gOkQD2ZrsIDY2dkiBBsIkW0ljeF.jpg", [SERIE] Promessa do Paraíso (2023)
+#SINOPSE: Nisan, uma mulher infeliz, doente e perdida, presa à correria da vida urbana, descobre uma seita misteriosa ao procurar sua amiga que desapareceu após uma sessão de cura da qual participaram juntas.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/226675/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/226675/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/226675/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/226675/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/226675/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/226675/1/6
+# ==========================================
+# 📺 Sr. Errado (2020) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/uu7L7eNIoymPmRJdODf9fN6dW8.jpg", [SERIE] Sr. Errado (2020)
+#SINOPSE: Özgür é um dono de restaurante muito rico e vive uma vida desleixada, mas feliz, e não acredita no amor. Ezgi agora está cansado de relacionamentos errados e está determinado a ter um relacionamento adequado e se casar.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/105052/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/105052/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/105052/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/105052/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/105052/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/105052/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/105052/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/105052/1/8
+#EPISODIO: S01E09 - Episódio 9|http://redeflixapi.store/serie/105052/1/9
+#EPISODIO: S01E10 - Episódio 10|http://redeflixapi.store/serie/105052/1/10
+#EPISODIO: S01E11 - Episódio 11|http://redeflixapi.store/serie/105052/1/11
+#EPISODIO: S01E12 - Episódio 12|http://redeflixapi.store/serie/105052/1/12
+#EPISODIO: S01E13 - Episódio 13|http://redeflixapi.store/serie/105052/1/13
+#EPISODIO: S01E14 - Episódio 14|http://redeflixapi.store/serie/105052/1/14
+# ==========================================
+# 📺 Romulus (2020) - 2 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/AjW7vdqgPG3ooQEdIp4P3EdkDQr.jpg", [SERIE] Romulus (2020)
+#SINOPSE: A história de Rômulo e seu irmão gêmeo Remo, no século VIII a.C. visto pelos olhos de três pessoas marcadas pela morte, solidão e violência.
+#EPISODIO: S01E01 - Tu|http://redeflixapi.store/serie/93782/1/1
+#EPISODIO: S01E02 - Regere|http://redeflixapi.store/serie/93782/1/2
+#EPISODIO: S01E03 - Imperio|http://redeflixapi.store/serie/93782/1/3
+#EPISODIO: S01E04 - Populus|http://redeflixapi.store/serie/93782/1/4
+#EPISODIO: S01E05 - Romane|http://redeflixapi.store/serie/93782/1/5
+#EPISODIO: S01E06 - Memento|http://redeflixapi.store/serie/93782/1/6
+#EPISODIO: S01E07 - Parcere|http://redeflixapi.store/serie/93782/1/7
+#EPISODIO: S01E08 - Subiectis|http://redeflixapi.store/serie/93782/1/8
+#EPISODIO: S01E09 - Debellare|http://redeflixapi.store/serie/93782/1/9
+#EPISODIO: S01E10 - Superbos|http://redeflixapi.store/serie/93782/1/10
+#EPISODIO: S02E01 - Episódio 1|http://redeflixapi.store/serie/93782/2/1
+#EPISODIO: S02E02 - Episódio 2|http://redeflixapi.store/serie/93782/2/2
+#EPISODIO: S02E03 - Episódio 3|http://redeflixapi.store/serie/93782/2/3
+#EPISODIO: S02E04 - Episódio 4|http://redeflixapi.store/serie/93782/2/4
+#EPISODIO: S02E05 - Episódio 5|http://redeflixapi.store/serie/93782/2/5
+#EPISODIO: S02E06 - Episódio 6|http://redeflixapi.store/serie/93782/2/6
+#EPISODIO: S02E07 - Episódio 7|http://redeflixapi.store/serie/93782/2/7
+#EPISODIO: S02E08 - Episódio 8|http://redeflixapi.store/serie/93782/2/8
+# ==========================================
+# 📺 Glamorous (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/3ERKin2VLIbhZp0vuepdmen8uCG.jpg", [SERIE] Glamorous (2023)
+#SINOPSE: Glamorous acompanha Marco Mejia (Miss Benny), um jovem queer que sente sua vida estagnada. Tudo muda quando ele consegue um emprego na empresa da lendária magnata dos cosméticos, Madolyn Addison (Kim Cattrall, de Sex and the City e How I Met Your Father).
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/205166/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/205166/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/205166/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/205166/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/205166/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/205166/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/205166/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/205166/1/8
+#EPISODIO: S01E09 - Episódio 9|http://redeflixapi.store/serie/205166/1/9
+#EPISODIO: S01E10 - Episódio 10|http://redeflixapi.store/serie/205166/1/10
+# ==========================================
+# 📺 Bastidores de uma Conspiração (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/mD2hwHku220zLIMDTnO8byCYpiI.jpg", [SERIE] Bastidores de uma Conspiração (2023)
+#SINOPSE: Uma nova morte levanta dúvidas sobre um caso de assassinato que já estava encerrado. Agora, um ex-detetive que vive nas ruas decide buscar a verdade.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/226772/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/226772/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/226772/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/226772/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/226772/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/226772/1/6
+# ==========================================
+# 📺 Santo Forte (2015) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/u3wAko9S1mhE7GZ7fFUWtm2uJQ6.jpg", [SERIE] Santo Forte (2015)
+#SINOPSE: Após uma experiência mística, o taxista João da Cruz passa a ter visões sobre seus passageiros. Além de se manter presente na família, ele encara o desafio de preservar seu dom.
+#EPISODIO: S01E01 - Taxista Não Anda de Táxi|http://redeflixapi.store/serie/125633/1/1
+#EPISODIO: S01E02 - Tetratapetão|http://redeflixapi.store/serie/125633/1/2
+#EPISODIO: S01E03 - Homem Que é Homem Não Chora|http://redeflixapi.store/serie/125633/1/3
+#EPISODIO: S01E04 - As Novinhas do Funk|http://redeflixapi.store/serie/125633/1/4
+#EPISODIO: S01E05 - Araruama, O Caralho!|http://redeflixapi.store/serie/125633/1/5
+#EPISODIO: S01E06 - Quica Ni Mim, Perereca|http://redeflixapi.store/serie/125633/1/6
+#EPISODIO: S01E07 - Aonde Tu Vai, Tu Vai Estar|http://redeflixapi.store/serie/125633/1/7
+#EPISODIO: S01E08 - Ciclo de Lavagem|http://redeflixapi.store/serie/125633/1/8
+#EPISODIO: S01E09 - Cabra Criada a Caviar|http://redeflixapi.store/serie/125633/1/9
+#EPISODIO: S01E10 - Rio Vermelho|http://redeflixapi.store/serie/125633/1/10
+#EPISODIO: S01E11 - Quanto Mais Velho, Melhor|http://redeflixapi.store/serie/125633/1/11
+#EPISODIO: S01E12 - O Rei Leão|http://redeflixapi.store/serie/125633/1/12
+#EPISODIO: S01E13 - Deus, O Diabo e um Homem no Meio|http://redeflixapi.store/serie/125633/1/13
+# ==========================================
+# 📺 North Shore (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/8EwbJS9G5utrEspbIeaXk0l5QVn.jpg", [SERIE] North Shore (2023)
+#SINOPSE: Quando detetives britânicos e australianos se unem para resolver um mistério de assassinato, eles descobrem uma conspiração com consequências políticas internacionais, bem como um choque de culturas.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/226267/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/226267/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/226267/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/226267/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/226267/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/226267/1/6
+# ==========================================
+# 📺 Sanditon (2019) - 3 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/iKMCbTAkEgvA97M8Isdqp4t12Cf.jpg", [SERIE] Sanditon (2019)
+#SINOPSE: Levada para longe da fazenda de sua família, a jovem Charlotte Heywood se muda para a cidade de Sanditon. Lá, ela conhece Tom Parker, que tem gastado todo o dinheiro que possui tentando transformar a monótona vila de pescadores em um resort elegante.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/92875/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/92875/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/92875/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/92875/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/92875/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/92875/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/92875/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/92875/1/8
+#EPISODIO: S02E01 - Episódio 1|http://redeflixapi.store/serie/92875/2/1
+#EPISODIO: S02E02 - Episódio 2|http://redeflixapi.store/serie/92875/2/2
+#EPISODIO: S02E03 - Episódio 3|http://redeflixapi.store/serie/92875/2/3
+#EPISODIO: S02E04 - Episódio 4|http://redeflixapi.store/serie/92875/2/4
+#EPISODIO: S02E05 - Episódio 5|http://redeflixapi.store/serie/92875/2/5
+#EPISODIO: S02E06 - Episódio 6|http://redeflixapi.store/serie/92875/2/6
+#EPISODIO: S03E01 - Episódio 1|http://redeflixapi.store/serie/92875/3/1
+#EPISODIO: S03E02 - Episódio 2|http://redeflixapi.store/serie/92875/3/2
+#EPISODIO: S03E03 - Episódio 3|http://redeflixapi.store/serie/92875/3/3
+#EPISODIO: S03E04 - Episódio 4|http://redeflixapi.store/serie/92875/3/4
+#EPISODIO: S03E05 - Episódio 5|http://redeflixapi.store/serie/92875/3/5
+#EPISODIO: S03E06 - Episódio 6|http://redeflixapi.store/serie/92875/3/6
+# ==========================================
+# 📺 Smother (2021) - 3 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/liE0KylYp5uzqONbDT07bVUUNUa.jpg", [SERIE] Smother (2021)
+#SINOPSE: Na costa acidentada do condado de Clare, o marido de Val Ahern é encontrado morto ao pé de um penhasco na manhã seguinte a uma festa de família. A matriarca começa a investigar os segredos da família para descobrir quem pode ser o responsável.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/120835/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/120835/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/120835/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/120835/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/120835/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/120835/1/6
+#EPISODIO: S02E01 - Episódio 1|http://redeflixapi.store/serie/120835/2/1
+#EPISODIO: S02E02 - Episódio 2|http://redeflixapi.store/serie/120835/2/2
+#EPISODIO: S02E03 - Episódio 3|http://redeflixapi.store/serie/120835/2/3
+#EPISODIO: S02E04 - Episódio 4|http://redeflixapi.store/serie/120835/2/4
+#EPISODIO: S02E05 - Episódio 5|http://redeflixapi.store/serie/120835/2/5
+#EPISODIO: S02E06 - Episódio 6|http://redeflixapi.store/serie/120835/2/6
+#EPISODIO: S03E01 - Episódio 1|http://redeflixapi.store/serie/120835/3/1
+#EPISODIO: S03E02 - Episódio 2|http://redeflixapi.store/serie/120835/3/2
+#EPISODIO: S03E03 - Episódio 3|http://redeflixapi.store/serie/120835/3/3
+#EPISODIO: S03E04 - Episódio 4|http://redeflixapi.store/serie/120835/3/4
+#EPISODIO: S03E05 - Episódio 5|http://redeflixapi.store/serie/120835/3/5
+#EPISODIO: S03E06 - Episódio 6|http://redeflixapi.store/serie/120835/3/6
+# ==========================================
+# 📺 Pela Fechadura (2018) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/fk7ZCaxu4PooFK8771jpe0lhy4f.jpg", [SERIE] Pela Fechadura (2018)
+#SINOPSE: Amor e ódio, vida e morte, são ingredientes dessa série de histórias independentes que relavam o lado obscuro do ser humano.
+#EPISODIO: S01E01 - Corvo|http://redeflixapi.store/serie/229471/1/1
+# ==========================================
+# 📺 Shadowhunters: Instrumentos Mortais (2016) - 3 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/1OIeVKb5ZdjPfZNtCoUYkH1bTQK.jpg", [SERIE] Shadowhunters: Instrumentos Mortais (2016)
+#SINOPSE: A vida da jovem Clary Fray muda completamente quando ela descobre fazer parte de uma raça de humanos que caçam demônios e têm sangue de anjo.
+#EPISODIO: S01E01 - Cálice letal|http://redeflixapi.store/serie/63210/1/1
+#EPISODIO: S01E02 - A descida não é fácil|http://redeflixapi.store/serie/63210/1/2
+#EPISODIO: S01E03 - Hotel finados|http://redeflixapi.store/serie/63210/1/3
+#EPISODIO: S01E04 - Mandando tudo para o inferno|http://redeflixapi.store/serie/63210/1/4
+#EPISODIO: S01E05 - Moo Shu para viagem|http://redeflixapi.store/serie/63210/1/5
+#EPISODIO: S01E06 - Homens e anjos|http://redeflixapi.store/serie/63210/1/6
+#EPISODIO: S01E07 - Arcanos maiores|http://redeflixapi.store/serie/63210/1/7
+#EPISODIO: S01E08 - Rancor|http://redeflixapi.store/serie/63210/1/8
+#EPISODIO: S01E09 - Insurreição|http://redeflixapi.store/serie/63210/1/9
+#EPISODIO: S01E10 - O mundo invertido|http://redeflixapi.store/serie/63210/1/10
+#EPISODIO: S01E11 - A força do sangue|http://redeflixapi.store/serie/63210/1/11
+#EPISODIO: S01E12 - Magnus e Alec|http://redeflixapi.store/serie/63210/1/12
+#EPISODIO: S01E13 - Estrela da manhã|http://redeflixapi.store/serie/63210/1/13
+#EPISODIO: S02E01 - Culpa nas veias|http://redeflixapi.store/serie/63210/2/1
+#EPISODIO: S02E02 - Uma porta na escuridão|http://redeflixapi.store/serie/63210/2/2
+#EPISODIO: S02E03 - Adeus ligação parabatai|http://redeflixapi.store/serie/63210/2/3
+#EPISODIO: S02E04 - Dia de fúria|http://redeflixapi.store/serie/63210/2/4
+#EPISODIO: S02E05 - Pó e sombras|http://redeflixapi.store/serie/63210/2/5
+#EPISODIO: S02E06 - As irmãs de ferro|http://redeflixapi.store/serie/63210/2/6
+#EPISODIO: S02E07 - Como você sucumbiu|http://redeflixapi.store/serie/63210/2/7
+#EPISODIO: S02E08 - O amor é um demônio|http://redeflixapi.store/serie/63210/2/8
+#EPISODIO: S02E09 - Laços de sangue|http://redeflixapi.store/serie/63210/2/9
+#EPISODIO: S02E10 - A luz do amanhecer|http://redeflixapi.store/serie/63210/2/10
+#EPISODIO: S02E11 - Minha máxima culpa|http://redeflixapi.store/serie/63210/2/11
+#EPISODIO: S02E12 - Você não pertence a si mesmo|http://redeflixapi.store/serie/63210/2/12
+#EPISODIO: S02E13 - Sangue de demônio|http://redeflixapi.store/serie/63210/2/13
+#EPISODIO: S02E14 - Alianças improváveis|http://redeflixapi.store/serie/63210/2/14
+#EPISODIO: S02E15 - Problema de memória|http://redeflixapi.store/serie/63210/2/15
+#EPISODIO: S02E16 - Dia do Perdão|http://redeflixapi.store/serie/63210/2/16
+#EPISODIO: S02E17 - Reflexo sombrio|http://redeflixapi.store/serie/63210/2/17
+#EPISODIO: S02E18 - Desperte ou desapareça para sempre|http://redeflixapi.store/serie/63210/2/18
+#EPISODIO: S02E19 - Saudações e adeus|http://redeflixapi.store/serie/63210/2/19
+#EPISODIO: S02E20 - Águas calmas|http://redeflixapi.store/serie/63210/2/20
+#EPISODIO: S03E01 - Em solo infernal|http://redeflixapi.store/serie/63210/3/1
+#EPISODIO: S03E02 - Poder como nunca se viu|http://redeflixapi.store/serie/63210/3/2
+#EPISODIO: S03E03 - O que está por trás|http://redeflixapi.store/serie/63210/3/3
+#EPISODIO: S03E04 - Sua alma instruída|http://redeflixapi.store/serie/63210/3/4
+#EPISODIO: S03E05 - Mais forte que os céus|http://redeflixapi.store/serie/63210/3/5
+#EPISODIO: S03E06 - Uma janela para um quarto vazio|http://redeflixapi.store/serie/63210/3/6
+#EPISODIO: S03E07 - Dedo na ferida|http://redeflixapi.store/serie/63210/3/7
+#EPISODIO: S03E08 - Um passeio na escuridão|http://redeflixapi.store/serie/63210/3/8
+#EPISODIO: S03E09 - Família antes de tudo|http://redeflixapi.store/serie/63210/3/9
+#EPISODIO: S03E10 - Estou chegando|http://redeflixapi.store/serie/63210/3/10
+#EPISODIO: S03E11 - Almas perdidas|http://redeflixapi.store/serie/63210/3/11
+#EPISODIO: S03E12 - Pecado original|http://redeflixapi.store/serie/63210/3/12
+#EPISODIO: S03E13 - Beati Bellicosi|http://redeflixapi.store/serie/63210/3/13
+#EPISODIO: S03E14 - Um beijo de uma flor|http://redeflixapi.store/serie/63210/3/14
+#EPISODIO: S03E15 - Aos filhos da noite|http://redeflixapi.store/serie/63210/3/15
+#EPISODIO: S03E16 - Fica comigo|http://redeflixapi.store/serie/63210/3/16
+#EPISODIO: S03E17 - Fogo celestial|http://redeflixapi.store/serie/63210/3/17
+#EPISODIO: S03E18 - A fera interior|http://redeflixapi.store/serie/63210/3/18
+#EPISODIO: S03E19 - Aku cinta kamu|http://redeflixapi.store/serie/63210/3/19
+#EPISODIO: S03E20 - Cidade de vidro|http://redeflixapi.store/serie/63210/3/20
+#EPISODIO: S03E21 - Aliança|http://redeflixapi.store/serie/63210/3/21
+#EPISODIO: S03E22 - Tudo o que é bom...|http://redeflixapi.store/serie/63210/3/22
+# ==========================================
+# 📺 Mr. Robot (2015) - 4 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/1uS9tYSYXU5jshLx2WlnOLZrMgD.jpg", [SERIE] Mr. Robot (2015)
+#SINOPSE: Elliot é um jovem programador que sofre de uma desordem que o torna anti-social. Acreditando que a única forma de se conectar com as pessoas é hackeando suas vidas.
+#EPISODIO: S01E01 - eps1.0_0la.Am1g0.mov|http://redeflixapi.store/serie/62560/1/1
+#EPISODIO: S01E02 - eps1.1_Uns_&_Zer0s.mpeg|http://redeflixapi.store/serie/62560/1/2
+#EPISODIO: S01E03 - eps1.2_d3bugar.mkv|http://redeflixapi.store/serie/62560/1/3
+#EPISODIO: S01E04 - eps1.3_d3m0n1os.mp4|http://redeflixapi.store/serie/62560/1/4
+#EPISODIO: S01E05 - eps1.4_3xpl0its.wmv|http://redeflixapi.store/serie/62560/1/5
+#EPISODIO: S01E06 - eps1.5_br4v0-v1ajant3.asf|http://redeflixapi.store/serie/62560/1/6
+#EPISODIO: S01E07 - eps1.6_ex1bir-c0digo.f0nt3.flv|http://redeflixapi.store/serie/62560/1/7
+#EPISODIO: S01E08 - eps1.7_wh1ter0se.m4v|http://redeflixapi.store/serie/62560/1/8
+#EPISODIO: S01E09 - eps1.8_esp3lham3nt0.qt|http://redeflixapi.store/serie/62560/1/9
+#EPISODIO: S01E10 - eps1.9_d1a.zer0.avi|http://redeflixapi.store/serie/62560/1/10
+#EPISODIO: S02E01 - eps2.0_d3sm4scarad0-pt1.tc|http://redeflixapi.store/serie/62560/2/1
+#EPISODIO: S02E02 - eps2.0_d3sm4scarad0-pt2.tc|http://redeflixapi.store/serie/62560/2/2
+#EPISODIO: S02E03 - eps2.1_p4n1c0.n0.nucl3o.ksd|http://redeflixapi.store/serie/62560/2/3
+#EPISODIO: S02E04 - eps2.2_init1.asec|http://redeflixapi.store/serie/62560/2/4
+#EPISODIO: S02E05 - eps2.3_b0mba.l0gic4.hc|http://redeflixapi.store/serie/62560/2/5
+#EPISODIO: S02E06 - eps2.4_m4ster-s1ave.aes|http://redeflixapi.store/serie/62560/2/6
+#EPISODIO: S02E07 - eps2.5_ap3rt0.d3.ma0.sme|http://redeflixapi.store/serie/62560/2/7
+#EPISODIO: S02E08 - eps2.6_suc3ss0r4.p12|http://redeflixapi.store/serie/62560/2/8
+#EPISODIO: S02E09 - episodios2.7_init_5.fve|http://redeflixapi.store/serie/62560/2/9
+#EPISODIO: S02E10 - eps2.8_pr0c3ss0.0cult0.axx|http://redeflixapi.store/serie/62560/2/10
+#EPISODIO: S02E11 - eps2.9_pyth0n-pt1.p7z|http://redeflixapi.store/serie/62560/2/11
+#EPISODIO: S02E12 - eps2.9_pyth0n-pt2.p7z|http://redeflixapi.store/serie/62560/2/12
+#EPISODIO: S03E01 - eps3.0_modo-de-economia-de-energia.h|http://redeflixapi.store/serie/62560/3/1
+#EPISODIO: S03E02 - eps3.1_desfazer.gz|http://redeflixapi.store/serie/62560/3/2
+#EPISODIO: S03E03 - eps3.2_legado.so|http://redeflixapi.store/serie/62560/3/3
+#EPISODIO: S03E04 - eps3.3_metadados.par2|http://redeflixapi.store/serie/62560/3/4
+#EPISODIO: S03E05 - eps3.4_erro-de-tempo-de-execução.r00|http://redeflixapi.store/serie/62560/3/5
+#EPISODIO: S03E06 - eps3.5_eliminar-processo.inc|http://redeflixapi.store/serie/62560/3/6
+#EPISODIO: S03E07 - eps3.6_fredrick+tanya.chk|http://redeflixapi.store/serie/62560/3/7
+#EPISODIO: S03E08 - eps3.7_não-me-delete.ko|http://redeflixapi.store/serie/62560/3/8
+#EPISODIO: S03E09 - eps3.8_estagio3.torrent|http://redeflixapi.store/serie/62560/3/9
+#EPISODIO: S03E10 - shutdown-r|http://redeflixapi.store/serie/62560/3/10
+#EPISODIO: S04E01 - 401 Sem Autorização|http://redeflixapi.store/serie/62560/4/1
+#EPISODIO: S04E02 - 402 Pagamento Necessário|http://redeflixapi.store/serie/62560/4/2
+#EPISODIO: S04E03 - 403 Proibido|http://redeflixapi.store/serie/62560/4/3
+#EPISODIO: S04E04 - 404 Não Encontrado|http://redeflixapi.store/serie/62560/4/4
+#EPISODIO: S04E05 - 405 Método Não Permitido|http://redeflixapi.store/serie/62560/4/5
+#EPISODIO: S04E06 - 406 Inaceitável|http://redeflixapi.store/serie/62560/4/6
+#EPISODIO: S04E07 - 407 Autenticação de Proxy Necessária|http://redeflixapi.store/serie/62560/4/7
+#EPISODIO: S04E08 - 408 Tempo Esgotado da Solicitação|http://redeflixapi.store/serie/62560/4/8
+#EPISODIO: S04E09 - 409 Conflito|http://redeflixapi.store/serie/62560/4/9
+#EPISODIO: S04E10 - 410 Eliminado|http://redeflixapi.store/serie/62560/4/10
+#EPISODIO: S04E11 - Saída|http://redeflixapi.store/serie/62560/4/11
+#EPISODIO: S04E12 - quemsoueu|http://redeflixapi.store/serie/62560/4/12
+#EPISODIO: S04E13 - Olá, Elliot|http://redeflixapi.store/serie/62560/4/13
+# ==========================================
+# 📺 And Just Like That... Um Novo Capítulo de Sex and the City (2021) - 3 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/9NAE9criUI8jkniXDIjczqjnzvb.jpg", [SERIE] And Just Like That... Um Novo Capítulo de Sex and the City (2021)
+#SINOPSE: O mundo e os personagens icônicos de Sex and the City são o ponto de partida para esta nova série, que encontra Carrie, Miranda e Charlotte navegando na complicada realidade da amizade, família e a vida em Nova York aos 50 anos.
+#EPISODIO: S01E01 - Oi, Sou Eu|http://redeflixapi.store/serie/116450/1/1
+#EPISODIO: S01E02 - Vestidinho Preto|http://redeflixapi.store/serie/116450/1/2
+#EPISODIO: S01E03 - Em Roma...|http://redeflixapi.store/serie/116450/1/3
+#EPISODIO: S01E04 - Alguns dos meus melhores amigos|http://redeflixapi.store/serie/116450/1/4
+#EPISODIO: S01E05 - Problemas com o quadril|http://redeflixapi.store/serie/116450/1/5
+#EPISODIO: S01E06 - Diwali|http://redeflixapi.store/serie/116450/1/6
+#EPISODIO: S01E07 - Viuvez e sexo|http://redeflixapi.store/serie/116450/1/7
+#EPISODIO: S01E08 - Enfeitiçado, incomodado e confuso|http://redeflixapi.store/serie/116450/1/8
+#EPISODIO: S01E09 - Sem condições|http://redeflixapi.store/serie/116450/1/9
+#EPISODIO: S01E10 - Vendo a luz|http://redeflixapi.store/serie/116450/1/10
+#EPISODIO: S02E01 - Baile do Met|http://redeflixapi.store/serie/116450/2/1
+#EPISODIO: S02E02 - O Brechó|http://redeflixapi.store/serie/116450/2/2
+#EPISODIO: S02E03 - Capítulo Três|http://redeflixapi.store/serie/116450/2/3
+#EPISODIO: S02E04 - Viva!|http://redeflixapi.store/serie/116450/2/4
+#EPISODIO: S02E05 - Gostosuras ou Travessuras|http://redeflixapi.store/serie/116450/2/5
+#EPISODIO: S02E06 - Ciclone Bomba|http://redeflixapi.store/serie/116450/2/6
+#EPISODIO: S02E07 - 14 de Fevereiro|http://redeflixapi.store/serie/116450/2/7
+#EPISODIO: S02E08 - Há Cem Anos|http://redeflixapi.store/serie/116450/2/8
+#EPISODIO: S02E09 - Lá Se Vai o Bairro|http://redeflixapi.store/serie/116450/2/9
+#EPISODIO: S02E10 - A Última Ceia Parte Um: Aperitivo|http://redeflixapi.store/serie/116450/2/10
+#EPISODIO: S02E11 - A Última Ceia Parte Dois: Entrada|http://redeflixapi.store/serie/116450/2/11
+#EPISODIO: S03E01 - Perspectiva Boa|http://redeflixapi.store/serie/116450/3/1
+#EPISODIO: S03E02 - Episódio 2|http://redeflixapi.store/serie/116450/3/2
+#EPISODIO: S03E03 - Episódio 3|http://redeflixapi.store/serie/116450/3/3
+#EPISODIO: S03E04 - Episódio 4|http://redeflixapi.store/serie/116450/3/4
+#EPISODIO: S03E05 - Episódio 5|http://redeflixapi.store/serie/116450/3/5
+#EPISODIO: S03E06 - Episódio 6|http://redeflixapi.store/serie/116450/3/6
+#EPISODIO: S03E07 - Episódio 7|http://redeflixapi.store/serie/116450/3/7
+#EPISODIO: S03E08 - Episódio 8|http://redeflixapi.store/serie/116450/3/8
+#EPISODIO: S03E09 - Episódio 9|http://redeflixapi.store/serie/116450/3/9
+#EPISODIO: S03E10 - Episódio 10|http://redeflixapi.store/serie/116450/3/10
+#EPISODIO: S03E11 - Episódio 11|http://redeflixapi.store/serie/116450/3/11
+#EPISODIO: S03E12 - Episódio 12|http://redeflixapi.store/serie/116450/3/12
+# ==========================================
+# 📺 À Beira do Precipício (2022) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/pVHQTMF0RwrIIQnH8HZTIRiKPDi.jpg", [SERIE] À Beira do Precipício (2022)
+#SINOPSE: Após uma ativista ser encontrada morta durante uma caça às baleias, o jornalista Hannis Martinsson, que há pouco tempo descobriu ser pai da garota, arriscará sua própria vida para desvendar o mistério por trás de uma comunidade isolada nas Ilhas Faroé.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/157525/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/157525/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/157525/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/157525/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/157525/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/157525/1/6
+# ==========================================
+# 📺 A Vida Pela Frente (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/mVT9nnwKoLw2rIgva5uMqmX8SMD.jpg", [SERIE] A Vida Pela Frente (2023)
+#SINOPSE: O ano é 1999. A noite da festa à fantasia que celebra a formatura de um grupo de amigos é interrompida por uma terrível notícia: a morte de Beta, aos 17 anos.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/158235/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/158235/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/158235/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/158235/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/158235/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/158235/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/158235/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/158235/1/8
+#EPISODIO: S01E09 - Episódio 9|http://redeflixapi.store/serie/158235/1/9
+#EPISODIO: S01E10 - Episódio 10|http://redeflixapi.store/serie/158235/1/10
+# ==========================================
+# 📺 Warrior (2019) - 3 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg", [SERIE] Warrior (2019)
+#SINOPSE: Inspirada nos escritos do falecido Bruce Lee, Warrior é uma intensa e pulsante série ambientada durante as brutais Guerras Tong na Chinatown de San Francisco no final do século XIX. A série segue Ah Sahm, um jovem prodígio das artes marciais chinesas que chega a São Francisco e passa a trabalhar como capanga de uma das mais poderosas famílias do crime organizado de Chinatown.
+#EPISODIO: S01E01 - O imigrante valente|http://redeflixapi.store/serie/73544/1/1
+#EPISODIO: S01E02 - Não existe China na Bíblia|http://redeflixapi.store/serie/73544/1/2
+#EPISODIO: S01E03 - João Chinês|http://redeflixapi.store/serie/73544/1/3
+#EPISODIO: S01E04 - A montanha branca|http://redeflixapi.store/serie/73544/1/4
+#EPISODIO: S01E05 - Sangue e desordem|http://redeflixapi.store/serie/73544/1/5
+#EPISODIO: S01E06 - Mastigaram, cuspiram e pisaram em você|http://redeflixapi.store/serie/73544/1/6
+#EPISODIO: S01E07 - O tigre e a raposa|http://redeflixapi.store/serie/73544/1/7
+#EPISODIO: S01E08 - Pagam pouco para pensarmos|http://redeflixapi.store/serie/73544/1/8
+#EPISODIO: S01E09 - Boxe chinês|http://redeflixapi.store/serie/73544/1/9
+#EPISODIO: S01E10 - Se vai se curvar, faça direito|http://redeflixapi.store/serie/73544/1/10
+#EPISODIO: S02E01 - Aprenda a suportar ou contrate um guarda-costas|http://redeflixapi.store/serie/73544/2/1
+#EPISODIO: S02E02 - A ligação com os chineses|http://redeflixapi.store/serie/73544/2/2
+#EPISODIO: S02E03 - Não é assim que fazemos negócios|http://redeflixapi.store/serie/73544/2/3
+#EPISODIO: S02E04 - Sem sangue, não tem jogo|http://redeflixapi.store/serie/73544/2/4
+#EPISODIO: S02E05 - Nem por um amor, uma bebida ou pagar seus pecados na igreja|http://redeflixapi.store/serie/73544/2/5
+#EPISODIO: S02E06 - Pra quem tem martelo, tudo se parece com prego|http://redeflixapi.store/serie/73544/2/6
+#EPISODIO: S02E07 - Se sentar à margem do rio e esperar…|http://redeflixapi.store/serie/73544/2/7
+#EPISODIO: S02E08 - Todos os inimigos, estrangeiros e nativos|http://redeflixapi.store/serie/73544/2/8
+#EPISODIO: S02E09 - Operação Dragão|http://redeflixapi.store/serie/73544/2/9
+#EPISODIO: S02E10 - Cara da parede|http://redeflixapi.store/serie/73544/2/10
+#EPISODIO: S03E01 - Hora errada pra ser orgulhoso|http://redeflixapi.store/serie/73544/3/1
+#EPISODIO: S03E02 - Nem com um golpe na cabeça|http://redeflixapi.store/serie/73544/3/2
+#EPISODIO: S03E03 - Não temos tempo pra aulas de química|http://redeflixapi.store/serie/73544/3/3
+#EPISODIO: S03E04 - Em Chinatown, ninguém pensa no pra sempre|http://redeflixapi.store/serie/73544/3/4
+#EPISODIO: S03E05 - Uísque e gatas e o resto pode esperar|http://redeflixapi.store/serie/73544/3/5
+#EPISODIO: S03E06 - Um coração mole não vai te fazer nenhum favor|http://redeflixapi.store/serie/73544/3/6
+#EPISODIO: S03E07 - Você tem que ser malandro pra se dar bem nesse mundo|http://redeflixapi.store/serie/73544/3/7
+#EPISODIO: S03E08 - Você Sabe Quando Está Perdendo a Luta|http://redeflixapi.store/serie/73544/3/8
+#EPISODIO: S03E09 - Toda morte é uma volta pra casa|http://redeflixapi.store/serie/73544/3/9
+#EPISODIO: S03E10 - Janela de oportunidade|http://redeflixapi.store/serie/73544/3/10
+# ==========================================
+# 📺 Swagger (2021) - 2 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/nASkt8izgpR4toMYgiAnxfjWcE2.jpg", [SERIE] Swagger (2021)
+#SINOPSE: Um prodígio do basquete precisa passar por um labirinto cheio de pressões se quiser superar as desvantagens de sua vida e aprender o que realmente significa ter Swagger.
+#EPISODIO: S01E01 - NBA|http://redeflixapi.store/serie/94245/1/1
+#EPISODIO: S01E02 - Haters|http://redeflixapi.store/serie/94245/1/2
+#EPISODIO: S01E03 - Mano a Mano|http://redeflixapi.store/serie/94245/1/3
+#EPISODIO: S01E04 - De Boa?|http://redeflixapi.store/serie/94245/1/4
+#EPISODIO: S01E05 - Presente 24 horas|http://redeflixapi.store/serie/94245/1/5
+#EPISODIO: S01E06 - Tudo em Jogo|http://redeflixapi.store/serie/94245/1/6
+#EPISODIO: S01E07 - #RADICAIS|http://redeflixapi.store/serie/94245/1/7
+#EPISODIO: S01E08 - Vou me Levantar|http://redeflixapi.store/serie/94245/1/8
+#EPISODIO: S01E09 - Vida que Segue|http://redeflixapi.store/serie/94245/1/9
+#EPISODIO: S01E10 - Flórida|http://redeflixapi.store/serie/94245/1/10
+#EPISODIO: S02E01 - O mundo não está preparado|http://redeflixapi.store/serie/94245/2/1
+#EPISODIO: S02E02 - 18|http://redeflixapi.store/serie/94245/2/2
+#EPISODIO: S02E03 - Ascenção e queda|http://redeflixapi.store/serie/94245/2/3
+#EPISODIO: S02E04 - Através do fogo|http://redeflixapi.store/serie/94245/2/4
+#EPISODIO: S02E05 - Somos livres?|http://redeflixapi.store/serie/94245/2/5
+#EPISODIO: S02E06 - Jace + Crystal|http://redeflixapi.store/serie/94245/2/6
+#EPISODIO: S02E07 - O retorno|http://redeflixapi.store/serie/94245/2/7
+#EPISODIO: S02E08 - Jornada e destino|http://redeflixapi.store/serie/94245/2/8
+# ==========================================
+# 📺 Icerde (2016) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/63v7p8t5sShiCGRLzePlgCu6TNj.jpg", [SERIE] Icerde (2016)
+#SINOPSE: De lados opostos da lei, os irmãos Sarp (Çagatay Ulusoy) e Mert (Aras Bulut Iynemli) são colocados um contra o outro sem saberem de sua fraternidade.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/68388/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/68388/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/68388/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/68388/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/68388/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/68388/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/68388/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/68388/1/8
+#EPISODIO: S01E09 - Episódio 9|http://redeflixapi.store/serie/68388/1/9
+#EPISODIO: S01E10 - Episódio 10|http://redeflixapi.store/serie/68388/1/10
+#EPISODIO: S01E11 - Episódio 11|http://redeflixapi.store/serie/68388/1/11
+#EPISODIO: S01E12 - Episódio 12|http://redeflixapi.store/serie/68388/1/12
+#EPISODIO: S01E13 - Episódio 13|http://redeflixapi.store/serie/68388/1/13
+#EPISODIO: S01E14 - Episódio 14|http://redeflixapi.store/serie/68388/1/14
+#EPISODIO: S01E15 - Episódio 15|http://redeflixapi.store/serie/68388/1/15
+#EPISODIO: S01E16 - Episódio 16|http://redeflixapi.store/serie/68388/1/16
+#EPISODIO: S01E17 - Episódio 17|http://redeflixapi.store/serie/68388/1/17
+#EPISODIO: S01E18 - Episódio 18|http://redeflixapi.store/serie/68388/1/18
+#EPISODIO: S01E19 - Episódio 19|http://redeflixapi.store/serie/68388/1/19
+#EPISODIO: S01E20 - Episódio 20|http://redeflixapi.store/serie/68388/1/20
+#EPISODIO: S01E21 - Episódio 21|http://redeflixapi.store/serie/68388/1/21
+#EPISODIO: S01E22 - Episódio 22|http://redeflixapi.store/serie/68388/1/22
+#EPISODIO: S01E23 - Episódio 23|http://redeflixapi.store/serie/68388/1/23
+#EPISODIO: S01E24 - Episódio 24|http://redeflixapi.store/serie/68388/1/24
+#EPISODIO: S01E25 - Episódio 25|http://redeflixapi.store/serie/68388/1/25
+#EPISODIO: S01E26 - Episódio 26|http://redeflixapi.store/serie/68388/1/26
+#EPISODIO: S01E27 - Episódio 27|http://redeflixapi.store/serie/68388/1/27
+#EPISODIO: S01E28 - Episódio 28|http://redeflixapi.store/serie/68388/1/28
+#EPISODIO: S01E29 - Episódio 29|http://redeflixapi.store/serie/68388/1/29
+#EPISODIO: S01E30 - Episódio 30|http://redeflixapi.store/serie/68388/1/30
+#EPISODIO: S01E31 - Episódio 31|http://redeflixapi.store/serie/68388/1/31
+#EPISODIO: S01E32 - Episódio 32|http://redeflixapi.store/serie/68388/1/32
+#EPISODIO: S01E33 - Episódio 33|http://redeflixapi.store/serie/68388/1/33
+#EPISODIO: S01E34 - Episódio 34|http://redeflixapi.store/serie/68388/1/34
+#EPISODIO: S01E35 - Episódio 35|http://redeflixapi.store/serie/68388/1/35
+#EPISODIO: S01E36 - Episódio 36|http://redeflixapi.store/serie/68388/1/36
+#EPISODIO: S01E37 - Episódio 37|http://redeflixapi.store/serie/68388/1/37
+#EPISODIO: S01E38 - Episódio 38|http://redeflixapi.store/serie/68388/1/38
+#EPISODIO: S01E39 - Episódio 39|http://redeflixapi.store/serie/68388/1/39
+# ==========================================
+# 📺 The Righteous Gemstones (2019) - 4 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/bKb54fgtMrS54VMMl8KdDIFlG3g.jpg", [SERIE] The Righteous Gemstones (2019)
+#SINOPSE: A história de uma família famosa do evangelismo televisivo com um longo historial de comportamentos duvidosos, ganância e obras de caridade — tudo em nome de Jesus Cristo Nosso Senhor.
+#EPISODIO: S01E01 - As justas pedras preciosas|http://redeflixapi.store/serie/82782/1/1
+#EPISODIO: S01E02 - É este o homem que fez a terra tremer|http://redeflixapi.store/serie/82782/1/2
+#EPISODIO: S01E03 - They Are Weak, But He Is Strong|http://redeflixapi.store/serie/82782/1/3
+#EPISODIO: S01E04 - Wicked Lips|http://redeflixapi.store/serie/82782/1/4
+#EPISODIO: S01E05 - Interlude|http://redeflixapi.store/serie/82782/1/5
+#EPISODIO: S01E06 - Now the Sons of Eli Were Worthless Men|http://redeflixapi.store/serie/82782/1/6
+#EPISODIO: S01E07 - And Yet One of You is a Devil|http://redeflixapi.store/serie/82782/1/7
+#EPISODIO: S01E08 - But the Righteous Will See Their Fall|http://redeflixapi.store/serie/82782/1/8
+#EPISODIO: S01E09 - Better is the End of a Thing Than Its Beginning|http://redeflixapi.store/serie/82782/1/9
+#EPISODIO: S02E01 - Episódio 1|http://redeflixapi.store/serie/82782/2/1
+#EPISODIO: S02E02 - Episódio 2|http://redeflixapi.store/serie/82782/2/2
+#EPISODIO: S02E03 - Episódio 3|http://redeflixapi.store/serie/82782/2/3
+#EPISODIO: S02E04 - Episódio 4|http://redeflixapi.store/serie/82782/2/4
+#EPISODIO: S02E05 - Episódio 5|http://redeflixapi.store/serie/82782/2/5
+#EPISODIO: S02E06 - Episódio 6|http://redeflixapi.store/serie/82782/2/6
+#EPISODIO: S02E07 - Episódio 7|http://redeflixapi.store/serie/82782/2/7
+#EPISODIO: S02E08 - Episódio 8|http://redeflixapi.store/serie/82782/2/8
+#EPISODIO: S02E09 - Episódio 9|http://redeflixapi.store/serie/82782/2/9
+#EPISODIO: S03E01 - Episódio 1|http://redeflixapi.store/serie/82782/3/1
+#EPISODIO: S03E02 - Episódio 2|http://redeflixapi.store/serie/82782/3/2
+#EPISODIO: S03E03 - Episódio 3|http://redeflixapi.store/serie/82782/3/3
+#EPISODIO: S03E04 - Episódio 4|http://redeflixapi.store/serie/82782/3/4
+#EPISODIO: S03E05 - Episódio 5|http://redeflixapi.store/serie/82782/3/5
+#EPISODIO: S03E06 - Episódio 6|http://redeflixapi.store/serie/82782/3/6
+#EPISODIO: S03E07 - Episódio 7|http://redeflixapi.store/serie/82782/3/7
+#EPISODIO: S03E08 - Episódio 8|http://redeflixapi.store/serie/82782/3/8
+#EPISODIO: S03E09 - Episódio 9|http://redeflixapi.store/serie/82782/3/9
+#EPISODIO: S04E01 - Prelúdio|http://redeflixapi.store/serie/82782/4/1
+#EPISODIO: S04E02 - Me Lançaste nas Profundezas, no Coração dos Mares|http://redeflixapi.store/serie/82782/4/2
+#EPISODIO: S04E03 - Para que Entristeçam como os Outros que Não Têm Esperança|http://redeflixapi.store/serie/82782/4/3
+#EPISODIO: S04E04 - Eis que Ele Vai Adiante de Vós Para a Galileia|http://redeflixapi.store/serie/82782/4/4
+#EPISODIO: S04E05 - Te Lembrarás|http://redeflixapi.store/serie/82782/4/5
+#EPISODIO: S04E06 - Interlúdio IV|http://redeflixapi.store/serie/82782/4/6
+#EPISODIO: S04E07 - Pois o Ciúme Desperta a Fúria de um Homem|http://redeflixapi.store/serie/82782/4/7
+#EPISODIO: S04E08 - Sobre o Teu Ventre Andarás|http://redeflixapi.store/serie/82782/4/8
+#EPISODIO: S04E09 - Para que o Homem de Deus Seja Perfeito|http://redeflixapi.store/serie/82782/4/9
+# ==========================================
+# 📺 Vanda (2022) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg", [SERIE] Vanda (2022)
+#SINOPSE: A história verídica da cabeleireira angustiada que, inesperadamente, enveredou por uma vida de crime, Dulce Caroço.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/126889/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/126889/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/126889/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/126889/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/126889/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/126889/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/126889/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/126889/1/8
+# ==========================================
+# 📺 Lendas do Amanhã (2016) - 7 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/xS1BsFVT99uywJRjLZh41KZ1MXX.jpg", [SERIE] Lendas do Amanhã (2016)
+#SINOPSE: Após ter visto o futuro, o viajante do tempo Rip Hunter recebe a missão de montar um grupo eclético de heróis e vilões para confrontar uma ameaça invencível - uma que não somente põe em risco o planeta, mas também o tempo.
+#EPISODIO: S01E01 - Piloto: Parte 1|http://redeflixapi.store/serie/62643/1/1
+#EPISODIO: S01E02 - Piloto: Parte 2|http://redeflixapi.store/serie/62643/1/2
+#EPISODIO: S01E03 - Laços de Sangue|http://redeflixapi.store/serie/62643/1/3
+#EPISODIO: S01E04 - Cavaleiros Brancos|http://redeflixapi.store/serie/62643/1/4
+#EPISODIO: S01E05 - À Prova de Falhas|http://redeflixapi.store/serie/62643/1/5
+#EPISODIO: S01E06 - Star City 2046|http://redeflixapi.store/serie/62643/1/6
+#EPISODIO: S01E07 - Abandonados|http://redeflixapi.store/serie/62643/1/7
+#EPISODIO: S01E08 - Noite do Gavião|http://redeflixapi.store/serie/62643/1/8
+#EPISODIO: S01E09 - Deixados Para Trás|http://redeflixapi.store/serie/62643/1/9
+#EPISODIO: S01E10 - Descendência|http://redeflixapi.store/serie/62643/1/10
+#EPISODIO: S01E11 - Os Oito Magníficos|http://redeflixapi.store/serie/62643/1/11
+#EPISODIO: S01E12 - O Último Refúgio|http://redeflixapi.store/serie/62643/1/12
+#EPISODIO: S01E13 - Leviatã|http://redeflixapi.store/serie/62643/1/13
+#EPISODIO: S01E14 - Rio do Tempo|http://redeflixapi.store/serie/62643/1/14
+#EPISODIO: S01E15 - Destino|http://redeflixapi.store/serie/62643/1/15
+#EPISODIO: S01E16 - Lendários|http://redeflixapi.store/serie/62643/1/16
+#EPISODIO: S02E01 - Fora do Tempo|http://redeflixapi.store/serie/62643/2/1
+#EPISODIO: S02E02 - A Sociedade da Justiça da América|http://redeflixapi.store/serie/62643/2/2
+#EPISODIO: S02E03 - Shogun|http://redeflixapi.store/serie/62643/2/3
+#EPISODIO: S02E04 - Aberrações|http://redeflixapi.store/serie/62643/2/4
+#EPISODIO: S02E05 - Comprometidos|http://redeflixapi.store/serie/62643/2/5
+#EPISODIO: S02E06 - País Fora da Lei|http://redeflixapi.store/serie/62643/2/6
+#EPISODIO: S02E07 - Invasão!|http://redeflixapi.store/serie/62643/2/7
+#EPISODIO: S02E08 - O Jeito de Chicago|http://redeflixapi.store/serie/62643/2/8
+#EPISODIO: S02E09 - Os Caçadores da Arte Perdida|http://redeflixapi.store/serie/62643/2/9
+#EPISODIO: S02E10 - Legião do Mal|http://redeflixapi.store/serie/62643/2/10
+#EPISODIO: S02E11 - Renegado|http://redeflixapi.store/serie/62643/2/11
+#EPISODIO: S02E12 - Camelot/3000|http://redeflixapi.store/serie/62643/2/12
+#EPISODIO: S02E13 - A Terra dos Perdidos|http://redeflixapi.store/serie/62643/2/13
+#EPISODIO: S02E14 - Voo à Lua|http://redeflixapi.store/serie/62643/2/14
+#EPISODIO: S02E15 - Irmandade da Lança|http://redeflixapi.store/serie/62643/2/15
+#EPISODIO: S02E16 - Mundo do Mal|http://redeflixapi.store/serie/62643/2/16
+#EPISODIO: S02E17 - Aruba|http://redeflixapi.store/serie/62643/2/17
+#EPISODIO: S03E01 - Aruba-Con|http://redeflixapi.store/serie/62643/3/1
+#EPISODIO: S03E02 - O Show de Aberrações|http://redeflixapi.store/serie/62643/3/2
+#EPISODIO: S03E03 - Zari|http://redeflixapi.store/serie/62643/3/3
+#EPISODIO: S03E04 - Ligando Para Casa|http://redeflixapi.store/serie/62643/3/4
+#EPISODIO: S03E05 - O Retorno do Mack|http://redeflixapi.store/serie/62643/3/5
+#EPISODIO: S03E06 - Caçando Helena|http://redeflixapi.store/serie/62643/3/6
+#EPISODIO: S03E07 - Bem-Vindos à Selva|http://redeflixapi.store/serie/62643/3/7
+#EPISODIO: S03E08 - Crise na Terra-X - Parte 4|http://redeflixapi.store/serie/62643/3/8
+#EPISODIO: S03E09 - Beebo: O Deus da Guerra|http://redeflixapi.store/serie/62643/3/9
+#EPISODIO: S03E10 - Papai Darhk|http://redeflixapi.store/serie/62643/3/10
+#EPISODIO: S03E11 - Lá Vou Eu de Novo|http://redeflixapi.store/serie/62643/3/11
+#EPISODIO: S03E12 - A Maldição do Totem da Terra|http://redeflixapi.store/serie/62643/3/12
+#EPISODIO: S03E13 - Onde os Velhos Pais Não Tem Vez|http://redeflixapi.store/serie/62643/3/13
+#EPISODIO: S03E14 - A Incrível Graça|http://redeflixapi.store/serie/62643/3/14
+#EPISODIO: S03E15 - Necromando a Pedra|http://redeflixapi.store/serie/62643/3/15
+#EPISODIO: S03E16 - Eu, Ava|http://redeflixapi.store/serie/62643/3/16
+#EPISODIO: S03E17 - John Noble Como Ator Convidado|http://redeflixapi.store/serie/62643/3/17
+#EPISODIO: S03E18 - O Bom, O Ruim e O Fofo|http://redeflixapi.store/serie/62643/3/18
+#EPISODIO: S04E01 - O Virgem Gary|http://redeflixapi.store/serie/62643/4/1
+#EPISODIO: S04E02 - Caça as Bruxas|http://redeflixapi.store/serie/62643/4/2
+#EPISODIO: S04E03 - A Rainha da Dança|http://redeflixapi.store/serie/62643/4/3
+#EPISODIO: S04E04 - Mais Uma Chatice Americana|http://redeflixapi.store/serie/62643/4/4
+#EPISODIO: S04E05 - O Tagumo Ataca!!!|http://redeflixapi.store/serie/62643/4/5
+#EPISODIO: S04E06 - Suave é o Nate|http://redeflixapi.store/serie/62643/4/6
+#EPISODIO: S04E07 - Nada Disso Bonequinho!|http://redeflixapi.store/serie/62643/4/7
+#EPISODIO: S04E08 - Lendas do Meow-Meow|http://redeflixapi.store/serie/62643/4/8
+#EPISODIO: S04E09 - Lucha de Apuestas|http://redeflixapi.store/serie/62643/4/9
+#EPISODIO: S04E10 - A Fuga|http://redeflixapi.store/serie/62643/4/10
+#EPISODIO: S04E11 - Espiritismo e Sensibilidade|http://redeflixapi.store/serie/62643/4/11
+#EPISODIO: S04E12 - A Beringela, A Bruxa e o Guarda-Roupa|http://redeflixapi.store/serie/62643/4/12
+#EPISODIO: S04E13 - Ovo MacGuffin|http://redeflixapi.store/serie/62643/4/13
+#EPISODIO: S04E14 - O Poder do Mamilo|http://redeflixapi.store/serie/62643/4/14
+#EPISODIO: S04E15 - Termos de Serviço|http://redeflixapi.store/serie/62643/4/15
+#EPISODIO: S04E16 - Ei, Mundo!|http://redeflixapi.store/serie/62643/4/16
+#EPISODIO: S05E01 - Crise nas Infinitas Terras - Parte 5|http://redeflixapi.store/serie/62643/5/1
+#EPISODIO: S05E02 - Conheçam as Lendas|http://redeflixapi.store/serie/62643/5/2
+#EPISODIO: S05E03 - Saudades, Beijos, Amor|http://redeflixapi.store/serie/62643/5/3
+#EPISODIO: S05E04 - Mate Qualquer Coisa|http://redeflixapi.store/serie/62643/5/4
+#EPISODIO: S05E05 - A Cabeça de Seu Tempo|http://redeflixapi.store/serie/62643/5/5
+#EPISODIO: S05E06 - Mortal Khanbat|http://redeflixapi.store/serie/62643/5/6
+#EPISODIO: S05E07 - Rua Sem Saída do Senhor Parker|http://redeflixapi.store/serie/62643/5/7
+#EPISODIO: S05E08 - Romeu vs. Julieta: A Origem da Justiça|http://redeflixapi.store/serie/62643/5/8
+#EPISODIO: S05E09 - Zari Não é Zari|http://redeflixapi.store/serie/62643/5/9
+#EPISODIO: S05E10 - A Grande Farsa Britânica|http://redeflixapi.store/serie/62643/5/10
+#EPISODIO: S05E11 - Nave Quebrada|http://redeflixapi.store/serie/62643/5/11
+#EPISODIO: S05E12 - Geeks & Aberrações|http://redeflixapi.store/serie/62643/5/12
+#EPISODIO: S05E13 - Eu Sou as Lendas|http://redeflixapi.store/serie/62643/5/13
+#EPISODIO: S05E14 - Aquele Em Que Estamos Presos na TV|http://redeflixapi.store/serie/62643/5/14
+#EPISODIO: S05E15 - Música da Tanga|http://redeflixapi.store/serie/62643/5/15
+#EPISODIO: S06E01 - Controle Terrestre para Sara Lance|http://redeflixapi.store/serie/62643/6/1
+#EPISODIO: S06E02 - Carne: As Lendas|http://redeflixapi.store/serie/62643/6/2
+#EPISODIO: S06E03 - O Fator Ex|http://redeflixapi.store/serie/62643/6/3
+#EPISODIO: S06E04 - Baía das Lulas|http://redeflixapi.store/serie/62643/6/4
+#EPISODIO: S06E05 - A Aprendiz de Satanista|http://redeflixapi.store/serie/62643/6/5
+#EPISODIO: S06E06 - A Estratégia do Bishop|http://redeflixapi.store/serie/62643/6/6
+#EPISODIO: S06E07 - De volta ao final – Parte 2|http://redeflixapi.store/serie/62643/6/7
+#EPISODIO: S06E08 - Estresse no Faroeste|http://redeflixapi.store/serie/62643/6/8
+#EPISODIO: S06E09 - Esse é o Gus|http://redeflixapi.store/serie/62643/6/9
+#EPISODIO: S06E10 - Treta|http://redeflixapi.store/serie/62643/6/10
+#EPISODIO: S06E11 - Jogada Final|http://redeflixapi.store/serie/62643/6/11
+#EPISODIO: S06E12 - Entediados a Bordo|http://redeflixapi.store/serie/62643/6/12
+#EPISODIO: S06E13 - O Silêncio dos Sonogramas|http://redeflixapi.store/serie/62643/6/13
+#EPISODIO: S06E14 - Vai Haver Caos|http://redeflixapi.store/serie/62643/6/14
+#EPISODIO: S06E15 - O Fungo entre Nós|http://redeflixapi.store/serie/62643/6/15
+#EPISODIO: S07E01 - As loiras bala|http://redeflixapi.store/serie/62643/7/1
+#EPISODIO: S07E02 - A necessidade de velocidade|http://redeflixapi.store/serie/62643/7/2
+#EPISODIO: S07E03 - WVRDR_ERRO_100 Oest-of-th3-Gs.gid30n não encontrado|http://redeflixapi.store/serie/62643/7/3
+#EPISODIO: S07E04 - Speakeasy faz isso|http://redeflixapi.store/serie/62643/7/4
+#EPISODIO: S07E05 - É um cientista louco, louco, louco, louco|http://redeflixapi.store/serie/62643/7/5
+#EPISODIO: S07E06 - Deus Ex Latrina|http://redeflixapi.store/serie/62643/7/6
+#EPISODIO: S07E07 - O lugar de uma mulher é no esforço de guerra!|http://redeflixapi.store/serie/62643/7/7
+#EPISODIO: S07E08 - Androide paranoico|http://redeflixapi.store/serie/62643/7/8
+#EPISODIO: S07E09 - Menor denominador comum|http://redeflixapi.store/serie/62643/7/9
+#EPISODIO: S07E10 - O Ponto Fixo|http://redeflixapi.store/serie/62643/7/10
+#EPISODIO: S07E11 - Raiva Contra as Máquinas|http://redeflixapi.store/serie/62643/7/11
+#EPISODIO: S07E12 - Bom demais para parar|http://redeflixapi.store/serie/62643/7/12
+#EPISODIO: S07E13 - Derrubou, derrubou|http://redeflixapi.store/serie/62643/7/13
+# ==========================================
+# 📺 Os Horrores de Dolores Roach (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/mmwxbwHJI83pyBI0dTUUTAapkit.jpg", [SERIE] Os Horrores de Dolores Roach (2023)
+#SINOPSE: Depois de passar 16 anos presa injustamente, Dolores Roach volta para um Washington Heights elitizado, onde reencontra um velho amigo maconheiro, Luis, que a acolhe e a deixa trabalhar como massagista no porão de sua loja de empanadas.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/217825/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/217825/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/217825/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/217825/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/217825/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/217825/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/217825/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/217825/1/8
+# ==========================================
+# 📺 East New York: Uma Nova Lei (2022) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/2XsVs01utW2kW2aOC4Rk8SwJLS4.jpg", [SERIE] East New York: Uma Nova Lei (2022)
+#SINOPSE: Amanda Warren estrela no papel da vice-inspetora Regina Haywood, recém-promovida chefe da 74ª delegacia de polícia no leste de Nova York, em um bairro operário na orla do Brooklyn às voltas com distúrbios sociais e os primórdios da gentrificação.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/202296/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/202296/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/202296/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/202296/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/202296/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/202296/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/202296/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/202296/1/8
+#EPISODIO: S01E09 - Episódio 9|http://redeflixapi.store/serie/202296/1/9
+#EPISODIO: S01E10 - Episódio 10|http://redeflixapi.store/serie/202296/1/10
+#EPISODIO: S01E11 - Episódio 11|http://redeflixapi.store/serie/202296/1/11
+#EPISODIO: S01E12 - Episódio 12|http://redeflixapi.store/serie/202296/1/12
+#EPISODIO: S01E13 - Episódio 13|http://redeflixapi.store/serie/202296/1/13
+#EPISODIO: S01E14 - Episódio 14|http://redeflixapi.store/serie/202296/1/14
+#EPISODIO: S01E15 - Episódio 15|http://redeflixapi.store/serie/202296/1/15
+#EPISODIO: S01E16 - Episódio 16|http://redeflixapi.store/serie/202296/1/16
+#EPISODIO: S01E17 - Episódio 17|http://redeflixapi.store/serie/202296/1/17
+#EPISODIO: S01E18 - Episódio 18|http://redeflixapi.store/serie/202296/1/18
+#EPISODIO: S01E19 - Episódio 19|http://redeflixapi.store/serie/202296/1/19
+#EPISODIO: S01E20 - Episódio 20|http://redeflixapi.store/serie/202296/1/20
+#EPISODIO: S01E21 - Episódio 21|http://redeflixapi.store/serie/202296/1/21
+# ==========================================
+# 📺 Cavalgando na Escuridão (2022) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/9vjSGVD1BoQ8LHkHVUm4pBbljmg.jpg", [SERIE] Cavalgando na Escuridão (2022)
+#SINOPSE: Tommy, o proprietário de uma escola de equitação, está escondendo um segredo sinistro. Quando seu comportamento perturbador vem à tona, seus entes queridos se unem contra ele.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/213328/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/213328/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/213328/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/213328/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/213328/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/213328/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/213328/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/213328/1/8
+# ==========================================
+# 📺 Desejo Fatal (2023) - 3 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/29nVmj5VCKEc7jRzNmstjtZoVAR.jpg", [SERIE] Desejo Fatal (2023)
+#SINOPSE: Uma professora casada se envolve em um caso apaixonado com um homem mais jovem que revela um caminho de tragédia e traição daqueles mais próximos a ela.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/227975/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/227975/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/227975/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/227975/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/227975/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/227975/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/227975/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/227975/1/8
+#EPISODIO: S01E09 - Episódio 9|http://redeflixapi.store/serie/227975/1/9
+#EPISODIO: S01E10 - Episódio 10|http://redeflixapi.store/serie/227975/1/10
+#EPISODIO: S01E11 - Episódio 11|http://redeflixapi.store/serie/227975/1/11
+#EPISODIO: S01E12 - Episódio 12|http://redeflixapi.store/serie/227975/1/12
+#EPISODIO: S01E13 - Episódio 13|http://redeflixapi.store/serie/227975/1/13
+#EPISODIO: S01E14 - Episódio 14|http://redeflixapi.store/serie/227975/1/14
+#EPISODIO: S02E01 - Episódio 1|http://redeflixapi.store/serie/227975/2/1
+#EPISODIO: S02E02 - Episódio 2|http://redeflixapi.store/serie/227975/2/2
+#EPISODIO: S02E03 - Episódio 3|http://redeflixapi.store/serie/227975/2/3
+#EPISODIO: S02E04 - Episódio 4|http://redeflixapi.store/serie/227975/2/4
+#EPISODIO: S02E05 - Episódio 5|http://redeflixapi.store/serie/227975/2/5
+#EPISODIO: S02E06 - Episódio 6|http://redeflixapi.store/serie/227975/2/6
+#EPISODIO: S02E07 - Episódio 7|http://redeflixapi.store/serie/227975/2/7
+#EPISODIO: S02E08 - Episódio 8|http://redeflixapi.store/serie/227975/2/8
+#EPISODIO: S02E09 - Episódio 9|http://redeflixapi.store/serie/227975/2/9
+#EPISODIO: S02E10 - Episódio 10|http://redeflixapi.store/serie/227975/2/10
+#EPISODIO: S03E01 - Episódio 1|http://redeflixapi.store/serie/227975/3/1
+#EPISODIO: S03E02 - Episódio 2|http://redeflixapi.store/serie/227975/3/2
+#EPISODIO: S03E03 - Episódio 3|http://redeflixapi.store/serie/227975/3/3
+#EPISODIO: S03E04 - Episódio 4|http://redeflixapi.store/serie/227975/3/4
+#EPISODIO: S03E05 - Episódio 5|http://redeflixapi.store/serie/227975/3/5
+#EPISODIO: S03E06 - Episódio 6|http://redeflixapi.store/serie/227975/3/6
+#EPISODIO: S03E07 - Episódio 7|http://redeflixapi.store/serie/227975/3/7
+#EPISODIO: S03E08 - Episódio 8|http://redeflixapi.store/serie/227975/3/8
+#EPISODIO: S03E09 - Episódio 9|http://redeflixapi.store/serie/227975/3/9
+#EPISODIO: S03E10 - Episódio 10|http://redeflixapi.store/serie/227975/3/10
+#EPISODIO: S03E11 - Episódio 11|http://redeflixapi.store/serie/227975/3/11
+# ==========================================
+# 📺 Círculo Fechado (2023) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/rIkBQg9c15lw6ydUFUotHqH7BI0.jpg", [SERIE] Círculo Fechado (2023)
+#SINOPSE: Uma investigação sobre um sequestro frustrado revela segredos de longa data que conectam vários personagens e culturas na cidade de Nova York dos dias atuais.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/132016/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/132016/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/132016/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/132016/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/132016/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/132016/1/6
+# ==========================================
+# 📺 Agentes da S.H.I.E.L.D. da Marvel (2013) - 7 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/dzBRO3W0zFPegtGeAbfkyEfNpTC.jpg", [SERIE] Agentes da S.H.I.E.L.D. da Marvel (2013)
+#SINOPSE: Agente Phil Coulson da S.H.I.E.L.D. (Superintendência Humana de Intervenção, Espionagem, Logística e Dissuasão) reúne uma equipe de agentes para investigar o novo, o estranho e o desconhecido em todo o mundo, protegendo o comum do extraordinário.
+#EPISODIO: S01E01 - Piloto|http://redeflixapi.store/serie/1403/1/1
+#EPISODIO: S01E02 - 0-8-4|http://redeflixapi.store/serie/1403/1/2
+#EPISODIO: S01E03 - A Carga|http://redeflixapi.store/serie/1403/1/3
+#EPISODIO: S01E04 - Olho Espião|http://redeflixapi.store/serie/1403/1/4
+#EPISODIO: S01E05 - A garota do vestido florido|http://redeflixapi.store/serie/1403/1/5
+#EPISODIO: S01E06 - F.Z.Z.T.|http://redeflixapi.store/serie/1403/1/6
+#EPISODIO: S01E07 - A Central|http://redeflixapi.store/serie/1403/1/7
+#EPISODIO: S01E08 - O Poço|http://redeflixapi.store/serie/1403/1/8
+#EPISODIO: S01E09 - Reparos|http://redeflixapi.store/serie/1403/1/9
+#EPISODIO: S01E10 - A Ponte|http://redeflixapi.store/serie/1403/1/10
+#EPISODIO: S01E11 - O Lugar Mágico|http://redeflixapi.store/serie/1403/1/11
+#EPISODIO: S01E12 - Sementes|http://redeflixapi.store/serie/1403/1/12
+#EPISODIO: S01E13 - T.R.A.C.K.S.|http://redeflixapi.store/serie/1403/1/13
+#EPISODIO: S01E14 - T.A.H.I.T.I.|http://redeflixapi.store/serie/1403/1/14
+#EPISODIO: S01E15 - Sim, Senhor|http://redeflixapi.store/serie/1403/1/15
+#EPISODIO: S01E16 - O Fim do Começo|http://redeflixapi.store/serie/1403/1/16
+#EPISODIO: S01E17 - Vira, Vira, Vira, Virou!|http://redeflixapi.store/serie/1403/1/17
+#EPISODIO: S01E18 - Providência|http://redeflixapi.store/serie/1403/1/18
+#EPISODIO: S01E19 - A Única Luz na Escuridão|http://redeflixapi.store/serie/1403/1/19
+#EPISODIO: S01E20 - Nada Pessoal|http://redeflixapi.store/serie/1403/1/20
+#EPISODIO: S01E21 - Gentalha|http://redeflixapi.store/serie/1403/1/21
+#EPISODIO: S01E22 - O Começo do Fim|http://redeflixapi.store/serie/1403/1/22
+#EPISODIO: S02E01 - Sombras|http://redeflixapi.store/serie/1403/2/1
+#EPISODIO: S02E02 - Traição|http://redeflixapi.store/serie/1403/2/2
+#EPISODIO: S02E03 - Amizades e influências|http://redeflixapi.store/serie/1403/2/3
+#EPISODIO: S02E04 - De cara com o inimigo|http://redeflixapi.store/serie/1403/2/4
+#EPISODIO: S02E05 - Um cordeiro na casa do lobo|http://redeflixapi.store/serie/1403/2/5
+#EPISODIO: S02E06 - Uma casa despedaçada|http://redeflixapi.store/serie/1403/2/6
+#EPISODIO: S02E07 - Escrituras na parede|http://redeflixapi.store/serie/1403/2/7
+#EPISODIO: S02E08 - Coisas que sepultamos|http://redeflixapi.store/serie/1403/2/8
+#EPISODIO: S02E09 - Quem entrou aqui?|http://redeflixapi.store/serie/1403/2/9
+#EPISODIO: S02E10 - No que se tornaram|http://redeflixapi.store/serie/1403/2/10
+#EPISODIO: S02E11 - Tremores|http://redeflixapi.store/serie/1403/2/11
+#EPISODIO: S02E12 - Quem vocês são realmente|http://redeflixapi.store/serie/1403/2/12
+#EPISODIO: S02E13 - Um de Nós|http://redeflixapi.store/serie/1403/2/13
+#EPISODIO: S02E14 - Amor no tempo da Hidra|http://redeflixapi.store/serie/1403/2/14
+#EPISODIO: S02E15 - Uma porta se fecha|http://redeflixapi.store/serie/1403/2/15
+#EPISODIO: S02E16 - Pós-vida|http://redeflixapi.store/serie/1403/2/16
+#EPISODIO: S02E17 - Melinda|http://redeflixapi.store/serie/1403/2/17
+#EPISODIO: S02E18 - A inimizade do meu inimigo|http://redeflixapi.store/serie/1403/2/18
+#EPISODIO: S02E19 - Meia dúzia de sujos|http://redeflixapi.store/serie/1403/2/19
+#EPISODIO: S02E20 - Cicatrizes|http://redeflixapi.store/serie/1403/2/20
+#EPISODIO: S02E21 - S.O.S., Parte 1|http://redeflixapi.store/serie/1403/2/21
+#EPISODIO: S02E22 - S.O.S., Parte 2|http://redeflixapi.store/serie/1403/2/22
+#EPISODIO: S03E01 - Leis da Natureza|http://redeflixapi.store/serie/1403/3/1
+#EPISODIO: S03E02 - Propósito da Máquina|http://redeflixapi.store/serie/1403/3/2
+#EPISODIO: S03E03 - Um Inumano Procurado|http://redeflixapi.store/serie/1403/3/3
+#EPISODIO: S03E04 - Conhecendo os seus Demônios|http://redeflixapi.store/serie/1403/3/4
+#EPISODIO: S03E05 - 4.722 Horas|http://redeflixapi.store/serie/1403/3/5
+#EPISODIO: S03E06 - Escondido Entre Nós...|http://redeflixapi.store/serie/1403/3/6
+#EPISODIO: S03E07 - Teoria do Caos|http://redeflixapi.store/serie/1403/3/7
+#EPISODIO: S03E08 - Muitas Cabeças, Uma História|http://redeflixapi.store/serie/1403/3/8
+#EPISODIO: S03E09 - Encerramento|http://redeflixapi.store/serie/1403/3/9
+#EPISODIO: S03E10 - Maveth|http://redeflixapi.store/serie/1403/3/10
+#EPISODIO: S03E11 - Recuperando|http://redeflixapi.store/serie/1403/3/11
+#EPISODIO: S03E12 - O Homem Infiltrado|http://redeflixapi.store/serie/1403/3/12
+#EPISODIO: S03E13 - Tiro de Despedida|http://redeflixapi.store/serie/1403/3/13
+#EPISODIO: S03E14 - Cães de Guarda|http://redeflixapi.store/serie/1403/3/14
+#EPISODIO: S03E15 - Espaço-Tempo|http://redeflixapi.store/serie/1403/3/15
+#EPISODIO: S03E16 - Paraíso Perdido|http://redeflixapi.store/serie/1403/3/16
+#EPISODIO: S03E17 - O Time|http://redeflixapi.store/serie/1403/3/17
+#EPISODIO: S03E18 - A Singularidade|http://redeflixapi.store/serie/1403/3/18
+#EPISODIO: S03E19 - Experimentos Falhos|http://redeflixapi.store/serie/1403/3/19
+#EPISODIO: S03E20 - Emancipação|http://redeflixapi.store/serie/1403/3/20
+#EPISODIO: S03E21 - Absolvição|http://redeflixapi.store/serie/1403/3/21
+#EPISODIO: S03E22 - Ascensão|http://redeflixapi.store/serie/1403/3/22
+#EPISODIO: S04E01 - O Fantasma|http://redeflixapi.store/serie/1403/4/1
+#EPISODIO: S04E02 - Conhecendo o Novo Chefe|http://redeflixapi.store/serie/1403/4/2
+#EPISODIO: S04E03 - Revolta|http://redeflixapi.store/serie/1403/4/3
+#EPISODIO: S04E04 - Deixe-me Ficar Perto do Seu Fogo|http://redeflixapi.store/serie/1403/4/4
+#EPISODIO: S04E05 - Presídio|http://redeflixapi.store/serie/1403/4/5
+#EPISODIO: S04E06 - O Bom Samaritano|http://redeflixapi.store/serie/1403/4/6
+#EPISODIO: S04E07 - Ofertas Com Nossos Demônios|http://redeflixapi.store/serie/1403/4/7
+#EPISODIO: S04E08 - As Leis da Dinâmica do Inferno|http://redeflixapi.store/serie/1403/4/8
+#EPISODIO: S04E09 - Promessas Quebradas|http://redeflixapi.store/serie/1403/4/9
+#EPISODIO: S04E10 - O Patriota|http://redeflixapi.store/serie/1403/4/10
+#EPISODIO: S04E11 - Acorde|http://redeflixapi.store/serie/1403/4/11
+#EPISODIO: S04E12 - Sopa de Batata Quente|http://redeflixapi.store/serie/1403/4/12
+#EPISODIO: S04E13 - Bum!|http://redeflixapi.store/serie/1403/4/13
+#EPISODIO: S04E14 - O Homem Por Trás da Shield|http://redeflixapi.store/serie/1403/4/14
+#EPISODIO: S04E15 - Autocontrole|http://redeflixapi.store/serie/1403/4/15
+#EPISODIO: S04E16 - E Se...|http://redeflixapi.store/serie/1403/4/16
+#EPISODIO: S04E17 - Indentidade e Mudança|http://redeflixapi.store/serie/1403/4/17
+#EPISODIO: S04E18 - Sem Arrependimentos|http://redeflixapi.store/serie/1403/4/18
+#EPISODIO: S04E19 - Todos os Homens da Madame|http://redeflixapi.store/serie/1403/4/19
+#EPISODIO: S04E20 - Adeus Mundo Cruel!|http://redeflixapi.store/serie/1403/4/20
+#EPISODIO: S04E21 - O Retorno|http://redeflixapi.store/serie/1403/4/21
+#EPISODIO: S04E22 - Fim do Mundo|http://redeflixapi.store/serie/1403/4/22
+#EPISODIO: S05E01 - Orientação - Parte Um|http://redeflixapi.store/serie/1403/5/1
+#EPISODIO: S05E02 - Orientação - Parte Dois|http://redeflixapi.store/serie/1403/5/2
+#EPISODIO: S05E03 - Uma Vida Passada|http://redeflixapi.store/serie/1403/5/3
+#EPISODIO: S05E04 - Uma Vida Ganha|http://redeflixapi.store/serie/1403/5/4
+#EPISODIO: S05E05 - Rebobinar|http://redeflixapi.store/serie/1403/5/5
+#EPISODIO: S05E06 - Diversão e Jogos|http://redeflixapi.store/serie/1403/5/6
+#EPISODIO: S05E07 - Juntos Ou Nada Mais|http://redeflixapi.store/serie/1403/5/7
+#EPISODIO: S05E08 - O Último Dia|http://redeflixapi.store/serie/1403/5/8
+#EPISODIO: S05E09 - Planos melhores|http://redeflixapi.store/serie/1403/5/9
+#EPISODIO: S05E10 - Vida Passada|http://redeflixapi.store/serie/1403/5/10
+#EPISODIO: S05E11 - Todos Os Confortos Do Lar|http://redeflixapi.store/serie/1403/5/11
+#EPISODIO: S05E12 - O Negócio Real|http://redeflixapi.store/serie/1403/5/12
+#EPISODIO: S05E13 - Principia|http://redeflixapi.store/serie/1403/5/13
+#EPISODIO: S05E14 - O Complexo Do Demônio|http://redeflixapi.store/serie/1403/5/14
+#EPISODIO: S05E15 - Levante-se E Brilhe|http://redeflixapi.store/serie/1403/5/15
+#EPISODIO: S05E16 - Vozes Internas|http://redeflixapi.store/serie/1403/5/16
+#EPISODIO: S05E17 - A Lua De Mel|http://redeflixapi.store/serie/1403/5/17
+#EPISODIO: S05E18 - Todas As Estradas Levam Para...|http://redeflixapi.store/serie/1403/5/18
+#EPISODIO: S05E19 - Segunda Opção|http://redeflixapi.store/serie/1403/5/19
+#EPISODIO: S05E20 - Aquele Que Irá Salvar A Todos|http://redeflixapi.store/serie/1403/5/20
+#EPISODIO: S05E21 - A Força Da Gravidade|http://redeflixapi.store/serie/1403/5/21
+#EPISODIO: S05E22 - O Fim|http://redeflixapi.store/serie/1403/5/22
+#EPISODIO: S06E01 - Peças Faltando|http://redeflixapi.store/serie/1403/6/1
+#EPISODIO: S06E02 - Janela De oportunidades|http://redeflixapi.store/serie/1403/6/2
+#EPISODIO: S06E03 - Medo E Repulsa No Planeta De Kitson|http://redeflixapi.store/serie/1403/6/3
+#EPISODIO: S06E04 - Código Amarelo|http://redeflixapi.store/serie/1403/6/4
+#EPISODIO: S06E05 - A Outra Coisa|http://redeflixapi.store/serie/1403/6/5
+#EPISODIO: S06E06 - Inescapável|http://redeflixapi.store/serie/1403/6/6
+#EPISODIO: S06E07 - Toldja|http://redeflixapi.store/serie/1403/6/7
+#EPISODIO: S06E08 - Curso De Colisão - Parte 1|http://redeflixapi.store/serie/1403/6/8
+#EPISODIO: S06E09 - Curso De Colisão - Parte 2|http://redeflixapi.store/serie/1403/6/9
+#EPISODIO: S06E10 - Salto|http://redeflixapi.store/serie/1403/6/10
+#EPISODIO: S06E11 - Das cinzas|http://redeflixapi.store/serie/1403/6/11
+#EPISODIO: S06E12 - O Signo|http://redeflixapi.store/serie/1403/6/12
+#EPISODIO: S06E13 - Vida Nova|http://redeflixapi.store/serie/1403/6/13
+#EPISODIO: S07E01 - O Novo Acordo|http://redeflixapi.store/serie/1403/7/1
+#EPISODIO: S07E02 - Conheça suas Cebolas|http://redeflixapi.store/serie/1403/7/2
+#EPISODIO: S07E03 - Aliens Comunistas do Futuro!|http://redeflixapi.store/serie/1403/7/3
+#EPISODIO: S07E04 - Saindo do Passado|http://redeflixapi.store/serie/1403/7/4
+#EPISODIO: S07E05 - Uma Truta no Leite|http://redeflixapi.store/serie/1403/7/5
+#EPISODIO: S07E06 - Adapte ou Morra|http://redeflixapi.store/serie/1403/7/6
+#EPISODIO: S07E07 - A Fantástica e Excelente Aventura de Mack e D|http://redeflixapi.store/serie/1403/7/7
+#EPISODIO: S07E08 - Depois, Antes|http://redeflixapi.store/serie/1403/7/8
+#EPISODIO: S07E09 - Como Sempre Fui|http://redeflixapi.store/serie/1403/7/9
+#EPISODIO: S07E10 - Roubado|http://redeflixapi.store/serie/1403/7/10
+#EPISODIO: S07E11 - Um Novo Dia|http://redeflixapi.store/serie/1403/7/11
+#EPISODIO: S07E12 - O Fim Está Próximo|http://redeflixapi.store/serie/1403/7/12
+#EPISODIO: S07E13 - Pelo Que Estamos Lutando|http://redeflixapi.store/serie/1403/7/13
+# ==========================================
+# 📺 Ash vs Evil Dead (2015) - 3 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/9tNtSk46s3f1ePr59p0JG6uacc8.jpg", [SERIE] Ash vs Evil Dead (2015)
+#SINOPSE: 30 anos depois, o caçador de demônios Ash Williams está de volta para enfrentar uma nova praga Deadite. Ele pode ter perdido a mão, mas não o seu toque.
+#EPISODIO: S01E01 - Episódio 1|http://redeflixapi.store/serie/62264/1/1
+#EPISODIO: S01E02 - Episódio 2|http://redeflixapi.store/serie/62264/1/2
+#EPISODIO: S01E03 - Episódio 3|http://redeflixapi.store/serie/62264/1/3
+#EPISODIO: S01E04 - Episódio 4|http://redeflixapi.store/serie/62264/1/4
+#EPISODIO: S01E05 - Episódio 5|http://redeflixapi.store/serie/62264/1/5
+#EPISODIO: S01E06 - Episódio 6|http://redeflixapi.store/serie/62264/1/6
+#EPISODIO: S01E07 - Episódio 7|http://redeflixapi.store/serie/62264/1/7
+#EPISODIO: S01E08 - Episódio 8|http://redeflixapi.store/serie/62264/1/8
+#EPISODIO: S01E09 - Episódio 9|http://redeflixapi.store/serie/62264/1/9
+#EPISODIO: S01E10 - Episódio 10|http://redeflixapi.store/serie/62264/1/10
+#EPISODIO: S02E01 - Episódio 1|http://redeflixapi.store/serie/62264/2/1
+#EPISODIO: S02E02 - Episódio 2|http://redeflixapi.store/serie/62264/2/2
+#EPISODIO: S02E03 - Episódio 3|http://redeflixapi.store/serie/62264/2/3
+#EPISODIO: S02E04 - Episódio 4|http://redeflixapi.store/serie/62264/2/4
+#EPISODIO: S02E05 - Episódio 5|http://redeflixapi.store/serie/62264/2/5
+#EPISODIO: S02E06 - Episódio 6|http://redeflixapi.store/serie/62264/2/6
+#EPISODIO: S02E07 - Episódio 7|http://redeflixapi.store/serie/62264/2/7
+#EPISODIO: S02E08 - Episódio 8|http://redeflixapi.store/serie/62264/2/8
+#EPISODIO: S02E09 - Episódio 9|http://redeflixapi.store/serie/62264/2/9
+#EPISODIO: S02E10 - Episódio 10|http://redeflixapi.store/serie/62264/2/10
+#EPISODIO: S03E01 - Família|http://redeflixapi.store/serie/62264/3/1
+#EPISODIO: S03E02 - Estande de Três|http://redeflixapi.store/serie/62264/3/2
+#EPISODIO: S03E03 - Aparentemente Morto|http://redeflixapi.store/serie/62264/3/3
+#EPISODIO: S03E04 - Assuntos Incompletos|http://redeflixapi.store/serie/62264/3/4
+#EPISODIO: S03E05 - Prova do Bebê|http://redeflixapi.store/serie/62264/3/5
+#EPISODIO: S03E06 - Contos da Fenda|http://redeflixapi.store/serie/62264/3/6
+#EPISODIO: S03E07 - Agitamos e Gritamos|http://redeflixapi.store/serie/62264/3/7
+#EPISODIO: S03E08 - Desmontando-se|http://redeflixapi.store/serie/62264/3/8
+#EPISODIO: S03E09 - Dia do Julgamento|http://redeflixapi.store/serie/62264/3/9
+#EPISODIO: S03E10 - A Coragem do Homem|http://redeflixapi.store/serie/62264/3/10
+# ==========================================
 # 📺 Escape at Dannemora (2018) - 1 TEMPORADA
 # ==========================================
 #EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/odk6ccUtUJlGTzPApKS6s4CTTrK.jpg", [SERIE] Escape at Dannemora (2018)
